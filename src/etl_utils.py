@@ -3,6 +3,7 @@ Utility functions for ETL operations on football data.
 """
 
 import pandas as pd
+import os
 from typing import Optional, Dict, Any
 
 
@@ -15,8 +16,18 @@ def load_csv_data(filepath: str) -> pd.DataFrame:
         
     Returns:
         DataFrame containing the loaded data
+        
+    Raises:
+        FileNotFoundError: If the specified file does not exist
+        ValueError: If the file is not a valid CSV
     """
-    return pd.read_csv(filepath)
+    if not os.path.exists(filepath):
+        raise FileNotFoundError(f"The file '{filepath}' does not exist.")
+    
+    try:
+        return pd.read_csv(filepath)
+    except Exception as e:
+        raise ValueError(f"Error reading CSV file '{filepath}': {str(e)}")
 
 
 def clean_dataframe(df: pd.DataFrame) -> pd.DataFrame:
