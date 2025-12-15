@@ -63,6 +63,8 @@ cd Brief-2-ETL-donnees-footballistiques-Short-Kings
 
 Creating a virtual environment helps isolate project dependencies.
 
+#### Option A: Using venv (Standard Python)
+
 **On Linux/Mac:**
 ```bash
 python -m venv venv
@@ -77,12 +79,25 @@ venv\Scripts\activate
 
 You should see `(venv)` at the beginning of your terminal prompt, indicating the virtual environment is active.
 
+#### Option B: Using Conda (Alternative)
+
+If you have Anaconda or Miniconda installed:
+
+```bash
+conda env create -f environment.yml
+conda activate football-etl
+```
+
 ### 3. Install Dependencies
 
+**If using venv:**
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+**If using conda:**
+Dependencies are already installed when creating the environment from `environment.yml`.
 
 This will install all required packages including:
 - Jupyter Notebook & JupyterLab
