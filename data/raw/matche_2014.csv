@@ -1,0 +1,65 @@
+edition_year,host_country,round,team1,team2,venue,year,score_team1,score_team2,extra_time,penalty_shootout,replay
+2014,BRAZIL,Group Stage,Brazil,Croatia,Sao Paulo,2014,3,1,False,False,False
+2014,BRAZIL,Group Stage,Mexico,Cameroon,Natal,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,Netherlands,Spain,Salvador,2014,5,1,False,False,False
+2014,BRAZIL,Group Stage,Chile,Australia,Cuiaba,2014,3,1,False,False,False
+2014,BRAZIL,Group Stage,Colombia,Greece,Belo Horizonte,2014,3,0,False,False,False
+2014,BRAZIL,Group Stage,Costa Rica,Uruguay,Fortaleza,2014,3,1,False,False,False
+2014,BRAZIL,Group Stage,Italy,England,Manaus,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Ivory Coast,Japan,Recife,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Switzerland,Ecuador,Brasilia,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,France,Honduras,Porto Alegre,2014,3,0,False,False,False
+2014,BRAZIL,Group Stage,Argentina,Bosnia-Herzegovina,Rio de Janeiro,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Germany,Portugal,Salvador,2014,4,0,False,False,False
+2014,BRAZIL,Group Stage,Iran,Nigeria,Curitiba,2014,0,0,False,False,False
+2014,BRAZIL,Group Stage,USA,Ghana,Natal,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Belgium,Algeria,Belo Horizonte,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Brazil,Mexico,Fortaleza,2014,0,0,False,False,False
+2014,BRAZIL,Group Stage,Russia,South Korea,Cuiaba,2014,1,1,False,False,False
+2014,BRAZIL,Group Stage,Netherlands,Australia,Porto Alegre,2014,3,2,False,False,False
+2014,BRAZIL,Group Stage,Chile,Spain,Rio de Janeiro,2014,2,0,False,False,False
+2014,BRAZIL,Group Stage,Croatia,Cameroon,Manaus,2014,4,0,False,False,False
+2014,BRAZIL,Group Stage,Colombia,Ivory Coast,Brasilia,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Uruguay,England,Sao Paulo,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Japan,Greece,Natal,2014,0,0,False,False,False
+2014,BRAZIL,Group Stage,Costa Rica,Italy,Recife,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,France,Switzerland,Salvador,2014,5,2,False,False,False
+2014,BRAZIL,Group Stage,Ecuador,Honduras,Curitiba,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Argentina,Iran,Belo Horizonte,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,Germany,Ghana,Fortaleza,2014,2,2,False,False,False
+2014,BRAZIL,Group Stage,Nigeria,Bosnia-Herzegovina,Cuiaba,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,Belgium,Russia,Rio de Janeiro,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,Algeria,South Korea,Porto Alegre,2014,4,2,False,False,False
+2014,BRAZIL,Group Stage,USA,Portugal,Manaus,2014,2,2,False,False,False
+2014,BRAZIL,Group Stage,Spain,Australia,Curitiba,2014,3,0,False,False,False
+2014,BRAZIL,Group Stage,Netherlands,Chile,Sao Paulo,2014,2,0,False,False,False
+2014,BRAZIL,Group Stage,Mexico,Croatia,Recife,2014,3,1,False,False,False
+2014,BRAZIL,Group Stage,Brazil,Cameroon,Brasilia,2014,4,1,False,False,False
+2014,BRAZIL,Group Stage,Uruguay,Italy,Natal,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,Costa Rica,England,Belo Horizonte,2014,0,0,False,False,False
+2014,BRAZIL,Group Stage,Colombia,Japan,Cuiaba,2014,4,1,False,False,False
+2014,BRAZIL,Group Stage,Greece,Ivory Coast,Fortaleza,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Argentina,Nigeria,Porto Alegre,2014,3,2,False,False,False
+2014,BRAZIL,Group Stage,Bosnia-Herzegovina,Iran,Salvador,2014,3,1,False,False,False
+2014,BRAZIL,Group Stage,Switzerland,Honduras,Manaus,2014,3,0,False,False,False
+2014,BRAZIL,Group Stage,Ecuador,France,Rio de Janeiro,2014,0,0,False,False,False
+2014,BRAZIL,Group Stage,Germany,USA,Recife,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,Portugal,Ghana,Brasilia,2014,2,1,False,False,False
+2014,BRAZIL,Group Stage,Belgium,South Korea,Sao Paulo,2014,1,0,False,False,False
+2014,BRAZIL,Group Stage,Algeria,Russia,Curitiba,2014,1,1,False,False,False
+2014,BRAZIL,Round of 16,Brazil,Chile,Belo Horizonte,2014,1,1,True,True,False
+2014,BRAZIL,Round of 16,Colombia,Uruguay,Rio de Janeiro,2014,2,0,False,False,False
+2014,BRAZIL,Round of 16,Netherlands,Mexico,Fortaleza,2014,2,1,False,False,False
+2014,BRAZIL,Round of 16,Costa Rica,Greece,Recife,2014,1,1,True,True,False
+2014,BRAZIL,Round of 16,France,Nigeria,Brasilia,2014,2,0,False,False,False
+2014,BRAZIL,Round of 16,Germany,Algeria,Porto Alegre,2014,2,1,True,False,False
+2014,BRAZIL,Round of 16,Argentina,Switzerland,Sao Paulo,2014,1,0,True,False,False
+2014,BRAZIL,Round of 16,Belgium,USA,Salvador,2014,2,1,True,False,False
+2014,BRAZIL,Quarter-finals,Germany,France,Rio de Janeiro,2014,1,0,False,False,False
+2014,BRAZIL,Quarter-finals,Brazil,Colombia,Fortaleza,2014,2,1,False,False,False
+2014,BRAZIL,Quarter-finals,Argentina,Belgium,Brasilia,2014,1,0,False,False,False
+2014,BRAZIL,Quarter-finals,Netherlands,Costa Rica,Salvador,2014,0,0,True,True,False
+2014,BRAZIL,Semi-finals,Germany,Brazil,Belo Horizonte,2014,7,1,False,False,False
+2014,BRAZIL,Semi-finals,Argentina,Netherlands,Sao Paulo,2014,0,0,True,True,False
+2014,BRAZIL,Third Place,Netherlands,Brazil,Brasilia,2014,3,0,False,False,False
+2014,BRAZIL,Final,Germany,Argentina,Rio de Janeiro,2014,1,0,True,False,False
