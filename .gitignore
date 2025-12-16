@@ -90,3 +90,8 @@ Thumbs.db
 *.h5
 *.pkl
 *.joblib
+
+# --- Project data (ETL) ---
+data/
+notebooks/data/
+
