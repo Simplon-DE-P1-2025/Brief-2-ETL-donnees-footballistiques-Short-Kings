@@ -1,226 +1,132 @@
-# Football Data ETL Project - Short Kings
+# ⚽ Projet ETL Données Footballistiques - Short Kings
 
-A Jupyter-based project for Extract, Transform, Load (ETL) operations on football data. This project provides a structured environment for analyzing football statistics, player performance, and team metrics.
+Bienvenue sur le projet **Short Kings**, une pipeline ETL (Extract, Transform, Load) dédiée à l'analyse des données de la Coupe du Monde de la FIFA de 1930 à 2022. Ce projet a pour but de consolider, nettoyer et structurer des données historiques et récentes provenant de diverses sources (CSV, JSON, APIs) pour permettre des analyses statistiques approfondies.
 
-## 📋 Table of Contents
+## 📝 Description
 
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Components](#project-components)
-- [Contributing](#contributing)
-- [License](#license)
+Ce projet permet de traiter les données de matchs, d'équipes et de résultats de toutes les Coupes du Monde. Il est conçu de manière modulaire avec des notebooks Jupyter pour chaque étape ou édition du tournoi, et des scripts Python pour les fonctions utilitaires partagées.
 
-## 📁 Project Structure
+**Objectifs principaux :**
+*   **Extraction** : Récupération des données depuis des fichiers plats (CSV) et des APIs (JSON).
+*   **Transformation** : Normalisation des noms de pays, gestion des formats de dates, nettoyage des scores et calcul de statistiques.
+*   **Chargement** : Export des données propres pour analyse ou insertion en base de données.
+
+## 📂 Architecture du Projet
+
+La structure du projet est organisée comme suit :
 
 ```
 Brief-2-ETL-donnees-footballistiques-Short-Kings/
 │
-├── notebooks/              # Jupyter notebooks for analysis
-│   └── 01_getting_started.ipynb
+├── notebooks/                       # Espace de travail Jupyter
+│   ├── extract_matches19302010...   # Extraction des données historiques (1930-2010)
+│   ├── nettoyage_matches19302010... # Nettoyage des données historiques
+│   ├── extract-2014-romain.ipynb    # Extraction spécifique pour 2014
+│   ├── 01-extract-json-2018.ipynb   # Extraction des données JSON 2018
+│   ├── 02-transform-2018.ipynb      # Transformation des données 2018
+│   ├── WorldCup2022.ipynb           # Pipeline complète pour 2022
+│   ├── mapping-teams-romain.ipynb   # Normalisation des noms d'équipes
+│   └── bdd-setup-romain.ipynb       # Configuration de la Base de Données
 │
-├── data/                   # Data directory
-│   ├── raw/               # Raw data files
-│   └── processed/         # Processed/cleaned data
+├── data/                            # Stockage des données
+│   ├── matches_wc2018_en.json       # Source JSON brute (2018)
+│   ├── matches_wc2022_en.json       # Source JSON brute (2022)
+│   ├── raw/                         # Données brutes historiques (CSV)
+│   │   ├── matches_19302010.csv
+│   │   ├── WorldCupMatches2014.csv
+│   │   └── ...
+│   └── processed/                   # Données nettoyées et finales
+│       ├── matches_2018_clean.csv
+│       ├── df_matches_final.csv     # Dataset consolidé final
+│       └── teams_ref_2018.csv
 │
-├── src/                    # Source code and utilities
-│   ├── __init__.py
-│   └── etl_utils.py       # ETL utility functions
+├── src/                             # Code source et utilitaires
+│   ├── etl_utils.py                 # Fonctions partagées (chargement, sauvegarde)
+│   └── normalize_teams.py           # Logique de standardisation des équipes
 │
-├── requirements.txt        # Python dependencies
-├── .gitignore             # Git ignore rules
-├── LICENSE                # Project license
-└── README.md              # This file
+├── environment.yml                  # Environnement Conda
+├── requirements.txt                 # Dépendances pip
+└── README.md                        # Documentation du projet
 ```
 
-## 🔧 Prerequisites
+## 🛠 Prérequis
 
-Before you begin, ensure you have the following installed on your system:
-
-- **Python 3.8 or higher** - [Download Python](https://www.python.org/downloads/)
-- **pip** (Python package installer) - Usually comes with Python
-- **Git** - [Download Git](https://git-scm.com/downloads)
-
-### Verify Installation
-
-```bash
-python --version    # Should show Python 3.8 or higher
-pip --version       # Should show pip version
-git --version       # Should show git version
-```
+*   **Python 3.8+**
+*   **Jupyter Lab** ou **Notebook**
+*   **Git**
 
 ## 🚀 Installation
 
-### 1. Clone the Repository
+### 1. Cloner le dépôt
 
 ```bash
 git clone https://github.com/Simplon-DE-P1-2025/Brief-2-ETL-donnees-footballistiques-Short-Kings.git
 cd Brief-2-ETL-donnees-footballistiques-Short-Kings
 ```
 
-### 2. Create a Virtual Environment (Recommended)
+### 2. Configurer l'environnement
 
-Creating a virtual environment helps isolate project dependencies.
+Il est fortement recommandé d'utiliser un environnement virtuel.
 
-#### Option A: Using venv (Standard Python)
-
-**On Linux/Mac:**
-```bash
-python -m venv venv
-source venv/bin/activate
-```
-
-**On Windows:**
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-You should see `(venv)` at the beginning of your terminal prompt, indicating the virtual environment is active.
-
-#### Option B: Using Conda (Alternative)
-
-If you have Anaconda or Miniconda installed:
-
+**Option A : Via Conda (Recommandé)**
 ```bash
 conda env create -f environment.yml
 conda activate football-etl
 ```
 
-### 3. Install Dependencies
-
-**If using venv:**
+**Option B : Via venv**
 ```bash
-pip install --upgrade pip
+# Création
+python -m venv venv
+
+# Activation (Windows)
+venv\Scripts\activate
+
+# Activation (Mac/Linux)
+source venv/bin/activate
+
+# Installation des dépendances
 pip install -r requirements.txt
 ```
 
-**If using conda:**
-Dependencies are already installed when creating the environment from `environment.yml`.
+## ⚙️ Utilisation (Workflow ETL)
 
-This will install all required packages including:
-- Jupyter Notebook & JupyterLab
-- pandas, numpy (data manipulation)
-- matplotlib, seaborn (visualization)
-- requests, beautifulsoup4 (data extraction)
-- And more...
-
-### 4. Verify Installation
-
-```bash
-jupyter --version
-python -c "import pandas; import numpy; print('All packages installed successfully!')"
-```
-
-## 📊 Usage
-
-### Starting Jupyter Notebook
-
-#### Option 1: Classic Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-This will open Jupyter in your default web browser at `http://localhost:8888/`
-
-#### Option 2: JupyterLab (Modern Interface)
-
+Lancez Jupyter Lab pour accéder aux notebooks :
 ```bash
 jupyter lab
 ```
 
-This will open JupyterLab in your default web browser at `http://localhost:8888/lab`
+Suivez l'ordre logique de traitement des données :
 
-### Running the Getting Started Notebook
+1.  **Données Historiques (1930-2010)** :
+    *   Exécutez `extract_matches19302010...` pour l'extraction brute.
+    *   Puis `nettoyage_matches19302010...` pour le nettoyage.
 
-1. Navigate to the `notebooks/` directory in the Jupyter interface
-2. Open `01_getting_started.ipynb`
-3. Run cells sequentially by clicking "Run" or pressing `Shift + Enter`
+2.  **Données 2014** :
+    *   Utilisez le notebook `extract-2014-romain.ipynb`.
 
-### Working with Your Own Data
+3.  **Données 2018** :
+    *   Extraction : `01-extract-json-2018.ipynb`
+    *   Transformation : `02-transform-2018.ipynb`
 
-1. **Place your raw data files** in the `data/raw/` directory
-2. **Load the data** in your notebook using:
-   ```python
-   from etl_utils import load_csv_data
-   df = load_csv_data('../data/raw/your_data_file.csv')
-   ```
-3. **Process and analyze** your data using the provided utilities
-4. **Save processed data** to `data/processed/` directory
+4.  **Données 2022 & Consolidation** :
+    *   Le notebook `WorldCup2022.ipynb` traite les données les plus récentes et peut servir à l'analyse globale.
 
-### Using Custom Utilities
+5.  **Utilitaires** :
+    *   Le fichier `src/normalize_teams.py` est crucial pour assurer que "France" s'écrit de la même façon dans les fichiers de 1998 et de 2018.
 
-The `src/etl_utils.py` module provides helpful functions:
+## 📊 Technologies Utilisées
 
-```python
-from etl_utils import (
-    load_csv_data,      # Load data from CSV
-    clean_dataframe,    # Clean and preprocess data
-    save_data,          # Save data in various formats
-    get_data_summary    # Get data statistics
-)
-```
+*   **Langage** : Python
+*   **Analyse de Données** : Pandas, NumPy
+*   **Interface** : Jupyter Lab
+*   **Formats de Données** : CSV, JSON
 
-## 🧩 Project Components
+## 👥 Auteurs
 
-### Notebooks
+*   Équipe **Short Kings** (Simplon DE P1 2025)
 
-- **01_getting_started.ipynb**: Introduction to the project with sample football data analysis
+## 📄 Licence
 
-### Source Code
+Ce projet est sous licence. Voir le fichier `LICENSE` pour plus de détails.
 
-- **src/etl_utils.py**: Reusable ETL utility functions for data processing
-
-### Data
-
-- **data/raw/**: Store your original, unmodified data files here
-- **data/processed/**: Store cleaned and processed data files here
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
-6. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
-
-## 🆘 Troubleshooting
-
-### Common Issues
-
-**Issue: `jupyter: command not found`**
-- Solution: Make sure your virtual environment is activated and Jupyter is installed
-
-**Issue: Module import errors in notebook**
-- Solution: Ensure the virtual environment kernel is selected in Jupyter
-- In Jupyter: Kernel → Change Kernel → Python 3 (venv)
-
-**Issue: Port 8888 already in use**
-- Solution: Use a different port: `jupyter notebook --port 8889`
-
-### Getting Help
-
-If you encounter any issues:
-1. Check that all dependencies are installed correctly
-2. Verify your Python version is 3.8 or higher
-3. Make sure your virtual environment is activated
-4. Check the [Issues](https://github.com/Simplon-DE-P1-2025/Brief-2-ETL-donnees-footballistiques-Short-Kings/issues) page for similar problems
-
-## 📚 Additional Resources
-
-- [Jupyter Documentation](https://jupyter.org/documentation)
-- [pandas Documentation](https://pandas.pydata.org/docs/)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
----
-
-**Happy Data Analysis! ⚽📊**
