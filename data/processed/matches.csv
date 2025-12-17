@@ -28,7 +28,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 27,101,21,4,4,draw,False,False,False,,Preliminary,Dublin,,1934
 28,131,49,3,2,home_team,False,False,False,,Preliminary,México DF,,1934
 29,190,160,9,0,home_team,False,False,False,,Preliminary,Madrid,,1934
-30,120,81,1,9,away_team,False,False,False,,Preliminary,Luxembourg,,1934
+30,120,72,1,9,away_team,False,False,False,,Preliminary,Luxembourg,,1934
 31,131,49,5,0,home_team,False,False,False,,Preliminary,México DF,,1934
 32,65,153,7,1,home_team,False,False,False,,Preliminary,Cairo,,1934
 33,160,190,1,2,away_team,False,False,False,,Preliminary,Lisboa,,1934
@@ -45,7 +45,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 44,213,131,4,2,home_team,False,False,False,,Preliminary,Roma,,1934
 45,103,213,7,1,home_team,False,False,False,,Preliminary,Roma,,1934
 46,14,76,3,2,home_team,True,False,False,,Preliminary,Torino,,1934
-47,81,21,5,2,home_team,False,False,False,,Preliminary,Firenze,,1934
+47,72,21,5,2,home_team,False,False,False,,Preliminary,Firenze,,1934
 48,53,164,2,1,home_team,False,False,False,,Preliminary,Trieste,,1934
 49,196,141,3,2,home_team,False,False,False,,Preliminary,Milano,,1934
 50,195,10,3,2,home_team,False,False,False,,Preliminary,Bologna,,1934
@@ -53,26 +53,26 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 52,94,65,4,2,home_team,False,False,False,,Preliminary,Napoli,,1934
 53,14,94,2,1,home_team,False,False,False,,Quarter-finals,Bologna,,1934
 54,53,196,3,2,home_team,False,False,False,,Quarter-finals,Torino,,1934
-55,81,195,2,1,home_team,False,False,False,,Quarter-finals,Milano,,1934
+55,72,195,2,1,home_team,False,False,False,,Quarter-finals,Milano,,1934
 56,103,190,1,1,draw,True,False,False,,Quarter-finals,Firenze,,1934
 57,103,190,1,0,home_team,False,False,True,,Quarter-finals,Firenze,,1934
 58,103,14,1,0,home_team,False,False,False,,Semi-finals,Milano,,1934
-59,53,81,3,1,home_team,False,False,False,,Semi-finals,Roma,,1934
-60,81,14,3,2,home_team,False,False,False,,Third Place,Napoli,,1934
+59,53,72,3,1,home_team,False,False,False,,Semi-finals,Roma,,1934
+60,72,14,3,2,home_team,False,False,False,,Third Place,Napoli,,1934
 61,103,53,2,1,home_team,True,False,False,,Final,Roma,,1934
 62,195,75,4,0,home_team,False,False,False,,Preliminary,Stockholm,,1938
 63,195,70,7,2,home_team,False,False,False,,Preliminary,Stockholm,,1938
-64,75,81,0,2,away_team,False,False,False,,Preliminary,Helsinki,,1938
+64,75,72,0,2,away_team,False,False,False,,Preliminary,Helsinki,,1938
 65,113,119,4,2,home_team,False,False,False,,Preliminary,Rīga,,1938
 66,75,70,0,1,away_team,False,False,False,,Preliminary,Turku,,1938
-67,81,70,4,1,home_team,False,False,False,,Preliminary,Königsberg,,1938
+67,72,70,4,1,home_team,False,False,False,,Preliminary,Königsberg,,1938
 68,119,113,1,5,away_team,False,False,False,,Preliminary,Kaunas,,1938
 69,14,113,2,1,home_team,False,False,False,,Preliminary,Wien,,1938
 70,150,101,3,2,home_team,False,False,False,,Preliminary,Oslo,,1938
 71,159,226,4,0,home_team,False,False,False,,Preliminary,Warszawa,,1938
 72,101,150,3,3,draw,False,False,False,,Preliminary,Dublin,,1938
 73,31,53,1,1,draw,False,False,False,,Preliminary,Sofija,,1938
-74,81,195,5,0,home_team,False,False,False,,Preliminary,Hamburg,,1938
+74,72,195,5,0,home_team,False,False,False,,Preliminary,Hamburg,,1938
 75,141,120,4,0,home_team,False,False,False,,Preliminary,Rotterdam,,1938
 76,153,83,1,3,away_team,False,False,False,,Preliminary,Tel Aviv,,1938
 77,83,153,1,0,home_team,False,False,False,,Preliminary,Athína,,1938
@@ -82,14 +82,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 81,21,141,1,1,draw,False,False,False,,Preliminary,Antwerpen,,1938
 82,53,31,6,0,home_team,False,False,False,,Preliminary,Praha,,1938
 83,196,160,2,1,home_team,False,False,False,,Preliminary,Milano,,1938
-84,196,81,1,1,draw,True,False,False,,Preliminary,Paris,,1938
+84,196,72,1,1,draw,True,False,False,,Preliminary,Paris,,1938
 85,103,150,2,1,home_team,True,False,False,,Preliminary,Marseille,,1938
 86,76,21,3,1,home_team,False,False,False,,Preliminary,Paris,,1938
 87,94,61,6,0,home_team,False,False,False,,Preliminary,Reims,,1938
 88,49,164,3,3,draw,True,False,False,,Preliminary,Toulouse,,1938
 89,28,159,6,5,home_team,True,False,False,,Preliminary,Strasbourg,,1938
 90,53,141,3,0,home_team,True,False,False,,Preliminary,Le Havre,,1938
-91,196,81,4,2,home_team,False,False,True,,Preliminary,Paris,,1938
+91,196,72,4,2,home_team,False,False,True,,Preliminary,Paris,,1938
 92,49,164,2,1,home_team,False,False,True,,Preliminary,Toulouse,,1938
 93,103,76,3,1,home_team,False,False,False,,Quarter-finals,Paris,,1938
 94,28,53,1,1,draw,True,False,False,,Quarter-finals,Bordeaux,,1938
@@ -1174,14 +1174,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 1173,124,228,0,1,away_team,False,False,False,,Preliminary,Blantyre,,1978
 1174,75,67,1,4,away_team,False,False,False,,Preliminary,Helsinki,,1978
 1175,195,150,2,0,home_team,False,False,False,,Preliminary,Stockholm,,1978
-1176,90,193,2,0,home_team,False,False,False,,Preliminary,Georgetown,,1978
+1176,87,193,2,0,home_team,False,False,False,,Preliminary,Georgetown,,1978
 1177,47,154,3,0,home_team,False,False,False,,Preliminary,San José,,1978
 1178,60,91,1,2,away_team,False,False,False,,Preliminary,Oranjestad,,1978
 1179,66,154,4,1,home_team,False,False,False,,Preliminary,San Salvador,,1978
 1180,91,60,7,0,home_team,False,False,False,,Preliminary,Port-au-Prince,,1978
 1181,19,206,2,1,home_team,False,False,False,,Preliminary,Bridgetown,,1978
 1182,105,49,1,3,away_team,False,False,False,,Preliminary,Kingston,,1978
-1183,193,90,3,0,home_team,False,False,False,,Preliminary,Paramaribo,,1978
+1183,193,87,3,0,home_team,False,False,False,,Preliminary,Paramaribo,,1978
 1184,49,105,2,0,home_team,False,False,False,,Preliminary,La Habana,,1978
 1185,206,19,1,0,home_team,False,False,False,,Preliminary,Port of Spain,,1978
 1186,47,86,0,0,draw,False,False,False,,Preliminary,San José,,1978
@@ -1400,8 +1400,8 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 1399,10,141,3,1,home_team,True,False,False,,Final,Buenos Aires,,1978
 1400,51,100,2,3,away_team,False,False,False,,Preliminary,Levkosía,,1982
 1401,102,149,0,0,draw,False,False,False,,Preliminary,Tel Aviv,,1982
-1402,90,84,5,2,home_team,False,False,False,,Preliminary,Georgetown,,1982
-1403,84,90,2,3,away_team,False,False,False,,Preliminary,St Georges,,1982
+1402,87,84,5,2,home_team,False,False,False,,Preliminary,Georgetown,,1982
+1403,84,87,2,3,away_team,False,False,False,,Preliminary,St Georges,,1982
 1404,117,79,2,1,home_team,False,False,False,,Preliminary,Tripoli,,1982
 1405,71,228,0,0,draw,False,False,False,,Preliminary,Addis Ababa,,1982
 1406,179,3,2,2,draw,False,False,False,,Preliminary,Freetown,,1982
@@ -1444,13 +1444,13 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 1443,208,95,1,3,away_team,False,False,False,,Preliminary,İzmir,,1982
 1444,150,164,1,1,draw,False,False,False,,Preliminary,Oslo,,1982
 1445,226,56,2,1,home_team,False,False,False,,Preliminary,Ljubljana,,1982
-1446,90,193,0,1,away_team,False,False,False,,Preliminary,Georgetown,,1982
+1446,87,193,0,1,away_team,False,False,False,,Preliminary,Georgetown,,1982
 1447,47,92,2,3,away_team,False,False,False,,Preliminary,San José,,1982
 1448,66,154,4,1,home_team,False,False,False,,Preliminary,San Salvador,,1982
 1449,51,76,0,7,away_team,False,False,False,,Preliminary,Lemesós,,1982
 1450,120,103,0,2,away_team,False,False,False,,Preliminary,Luxembourg,,1982
 1451,86,47,0,0,draw,False,False,False,,Preliminary,Guatemala,,1982
-1452,193,90,4,0,home_team,False,False,False,,Preliminary,Paramaribo,,1982
+1452,193,87,4,0,home_team,False,False,False,,Preliminary,Paramaribo,,1982
 1453,35,229,2,0,home_team,False,False,False,,Preliminary,Douala,,1982
 1454,100,21,1,1,draw,False,False,False,,Preliminary,Dublin,,1982
 1455,223,208,4,0,home_team,False,False,False,,Preliminary,Cardiff,,1982
@@ -1471,7 +1471,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 1470,47,154,2,0,home_team,False,False,False,,Preliminary,San José,,1982
 1471,131,213,5,1,home_team,False,False,False,,Preliminary,México DF,,1982
 1472,86,66,0,0,draw,False,False,False,,Preliminary,Guatemala,,1982
-1473,49,90,1,0,home_team,False,False,False,,Preliminary,La Habana,,1982
+1473,49,87,1,0,home_team,False,False,False,,Preliminary,La Habana,,1982
 1474,206,60,0,0,draw,False,False,False,,Preliminary,Port of Spain,,1982
 1475,102,195,0,0,draw,False,False,False,,Preliminary,Tel Aviv,,1982
 1476,14,2,5,0,home_team,False,False,False,,Preliminary,Wien,,1982
@@ -1493,7 +1493,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 1492,47,86,0,3,away_team,False,False,False,,Preliminary,San José,,1982
 1493,60,206,0,0,draw,False,False,False,,Preliminary,Willemstad,,1982
 1494,92,66,2,0,home_team,False,False,False,,Preliminary,Tegucigalpa,,1982
-1495,90,49,0,3,away_team,False,False,False,,Preliminary,Linden,,1982
+1495,87,49,0,3,away_team,False,False,False,,Preliminary,Linden,,1982
 1496,228,136,2,0,home_team,False,True,False,,Preliminary,Lusaka,,1982
 1497,31,72,1,3,away_team,False,False,False,,Preliminary,Sofija,,1982
 1498,53,208,2,0,home_team,False,False,False,,Preliminary,Praha,,1982
@@ -1767,13 +1767,13 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 1766,124,130,4,0,home_team,False,False,False,,Preliminary,Lilongwe,,1986
 1767,66,161,5,0,home_team,False,False,False,,Preliminary,San Salvador,,1986
 1768,228,214,3,0,home_team,False,False,False,,Preliminary,Ndola,,1986
-1769,9,91,0,4,away_team,False,False,False,,Preliminary,Port-au-Prince,,1986
+1769,8,91,0,4,away_team,False,False,False,,Preliminary,Port-au-Prince,,1986
 1770,161,66,0,3,away_team,False,False,False,,Preliminary,San Juan,,1986
-1771,91,9,1,2,away_team,False,False,False,,Preliminary,Port-au-Prince,,1986
-1772,193,90,1,0,home_team,False,False,False,,Preliminary,Paramaribo,,1986
+1771,91,8,1,2,away_team,False,False,False,,Preliminary,Port-au-Prince,,1986
+1772,193,87,1,0,home_team,False,False,False,,Preliminary,Paramaribo,,1986
 1773,214,228,1,0,home_team,False,False,False,,Preliminary,Kampala,,1986
 1774,65,229,1,0,home_team,False,False,False,,Preliminary,Cairo,,1986
-1775,90,193,1,1,draw,False,False,False,,Preliminary,Georgetown,,1986
+1775,87,193,1,1,draw,False,False,False,,Preliminary,Georgetown,,1986
 1776,195,160,0,1,away_team,False,False,False,,Preliminary,Stockholm,,1986
 1777,149,164,3,2,home_team,False,False,False,,Preliminary,Belfast,,1986
 1778,100,189,1,0,home_team,False,False,False,,Preliminary,Dublin,,1986
@@ -2120,20 +2120,20 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 2119,10,21,2,0,home_team,False,False,False,,Semi-finals,México DF,,1986
 2120,76,21,4,2,home_team,True,False,False,,Third Place,Puebla,,1986
 2121,10,72,3,2,home_team,False,False,False,,Final,México DF,,1986
-2122,90,206,0,4,away_team,False,False,False,,Preliminary,Georgetown,,1990
+2122,87,206,0,4,away_team,False,False,False,,Preliminary,Georgetown,,1990
 2123,49,86,0,1,away_team,False,False,False,,Preliminary,La Habana,,1990
-2124,206,90,1,0,home_team,False,False,False,,Preliminary,San Fernando,,1990
+2124,206,87,1,0,home_team,False,False,False,,Preliminary,San Fernando,,1990
 2125,105,161,1,0,home_team,False,False,False,,Preliminary,Kingston,,1990
 2126,86,49,1,1,draw,False,False,False,,Preliminary,San Marcos,,1990
 2127,149,128,3,0,home_team,False,False,False,,Preliminary,Belfast,,1990
 2128,161,105,1,2,away_team,False,False,False,,Preliminary,San Juan,,1990
 2129,117,32,3,0,home_team,False,False,False,,Preliminary,Tripoli,,1990
-2130,9,60,0,1,away_team,False,False,False,,Preliminary,St Johns,,1990
+2130,8,60,0,1,away_team,False,False,False,,Preliminary,St Johns,,1990
 2131,32,117,2,0,home_team,False,False,False,,Preliminary,Ouagadougou,,1990
 2132,214,124,1,0,home_team,False,False,False,,Preliminary,Kampala,,1990
 2133,47,154,1,1,draw,False,False,False,,Preliminary,Alajuela,,1990
 2134,105,213,0,0,draw,False,False,False,,Preliminary,Kingston,,1990
-2135,60,9,3,1,home_team,False,False,False,,Preliminary,Willemstad,,1990
+2135,60,8,3,1,home_team,False,False,False,,Preliminary,Willemstad,,1990
 2136,124,214,3,1,home_team,False,False,False,,Preliminary,Lilongwe,,1990
 2137,154,47,0,2,away_team,False,False,False,,Preliminary,Panamá,,1990
 2138,207,88,5,0,home_team,False,False,False,,Preliminary,Tunis,,1990
@@ -2491,12 +2491,12 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 2490,169,170,1,0,home_team,False,False,False,,Preliminary,Castries,,1994
 2491,161,59,1,1,draw,False,False,False,,Preliminary,San Juan,,1994
 2492,170,169,3,1,home_team,False,False,False,,Preliminary,Kingstown,,1994
-2493,60,9,1,1,draw,False,False,False,,Preliminary,Willemstad,,1994
+2493,60,8,1,1,draw,False,False,False,,Preliminary,Willemstad,,1994
 2494,19,206,1,2,away_team,False,False,False,,Preliminary,Bridgetown,,1994
 2495,190,2,3,0,home_team,False,False,False,,Preliminary,Sevilla,,1994
 2496,21,51,1,0,home_team,False,False,False,,Preliminary,Bruxelles,,1994
-2497,9,60,3,0,home_team,False,False,False,,Preliminary,St Johns,,1994
-2498,90,193,1,2,away_team,False,False,False,,Preliminary,Georgetown,,1994
+2497,8,60,3,0,home_team,False,False,False,,Preliminary,St Johns,,1994
+2498,87,193,1,2,away_team,False,False,False,,Preliminary,Georgetown,,1994
 2499,24,91,1,0,home_team,False,False,False,,Preliminary,Hamilton,,1994
 2500,149,119,2,2,draw,False,False,False,,Preliminary,Belfast,,1994
 2501,164,73,7,0,home_team,False,False,False,,Preliminary,Bucureşti,,1994
@@ -2504,7 +2504,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 2503,75,31,0,3,away_team,False,False,False,,Preliminary,Helsinki,,1994
 2504,164,223,5,1,home_team,False,False,False,,Preliminary,Bucureşti,,1994
 2505,105,161,2,1,home_team,False,False,False,,Preliminary,Kingston,,1994
-2506,193,90,1,1,draw,False,False,False,,Preliminary,Paramaribo,,1994
+2506,193,87,1,1,draw,False,False,False,,Preliminary,Paramaribo,,1994
 2507,91,24,2,1,home_team,False,False,False,,Preliminary,Port-au-Prince,,1994
 2508,100,2,2,0,home_team,False,False,False,,Preliminary,Dublin,,1994
 2509,161,105,0,1,away_team,False,False,False,,Preliminary,San Juan,,1994
@@ -2513,11 +2513,11 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 2512,73,21,0,3,away_team,False,False,False,,Preliminary,Toftír,,1994
 2513,94,95,1,2,away_team,False,False,False,,Preliminary,Budapest,,1994
 2514,143,74,3,0,home_team,False,False,False,,Preliminary,Auckland,,1994
-2515,9,24,0,3,away_team,False,False,False,,Preliminary,St Johns,,1994
+2515,8,24,0,3,away_team,False,False,False,,Preliminary,St Johns,,1994
 2516,73,51,0,2,away_team,False,False,False,,Preliminary,Toftír,,1994
 2517,220,143,1,4,away_team,False,False,False,,Preliminary,Port Vila,,1994
 2518,143,220,8,0,home_team,False,False,False,,Preliminary,Auckland,,1994
-2519,24,9,2,1,home_team,False,False,False,,Preliminary,Hamilton,,1994
+2519,24,8,2,1,home_team,False,False,False,,Preliminary,Hamilton,,1994
 2520,206,105,1,2,away_team,False,False,False,,Preliminary,Port of Spain,,1994
 2521,183,199,1,1,draw,False,False,False,,Preliminary,Honiara,,1994
 2522,144,66,0,5,away_team,False,False,False,,Preliminary,Managua,,1994
@@ -2985,7 +2985,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 2984,83,165,1,0,home_team,False,False,False,,Preliminary,Athína,,1994
 2985,76,31,1,2,away_team,False,False,False,,Preliminary,Paris,,1994
 2986,10,13,1,0,home_team,False,False,False,,Preliminary,Buenos Aires,,1994
-2987,81,25,1,0,home_team,False,False,False,,Group Stage,Chicago,,1994
+2987,72,25,1,0,home_team,False,False,False,,Group Stage,Chicago,,1994
 2988,190,186,2,2,draw,False,False,False,,Group Stage,Dallas,,1994
 2989,103,100,0,1,away_team,False,False,False,,Group Stage,New York,,1994
 2990,43,164,1,3,away_team,False,False,False,,Group Stage,Los Angeles,,1994
@@ -2996,7 +2996,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 2995,141,173,2,1,home_team,False,False,False,,Group Stage,Washington,,1994
 2996,28,165,2,0,home_team,False,False,False,,Group Stage,San Francisco,,1994
 2997,10,83,4,0,home_team,False,False,False,,Group Stage,Boston,,1994
-2998,81,190,1,1,draw,False,False,False,,Group Stage,Chicago,,1994
+2998,72,190,1,1,draw,False,False,False,,Group Stage,Chicago,,1994
 2999,146,31,3,0,home_team,False,False,False,,Group Stage,Dallas,,1994
 3000,164,196,1,4,away_team,False,False,False,,Group Stage,Detroit,,1994
 3001,213,43,2,1,home_team,False,False,False,,Group Stage,Los Angeles,,1994
@@ -3012,7 +3012,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3011,196,43,0,2,away_team,False,False,False,,Group Stage,San Francisco,,1994
 3012,213,164,0,1,away_team,False,False,False,,Group Stage,Los Angeles,,1994
 3013,25,190,1,3,away_team,False,False,False,,Group Stage,Chicago,,1994
-3014,81,186,3,2,home_team,False,False,False,,Group Stage,Dallas,,1994
+3014,72,186,3,2,home_team,False,False,False,,Group Stage,Dallas,,1994
 3015,103,131,1,1,draw,False,False,False,,Group Stage,Washington,,1994
 3016,100,150,0,0,draw,False,False,False,,Group Stage,New York,,1994
 3017,165,35,6,1,home_team,False,False,False,,Group Stage,San Francisco,,1994
@@ -3021,7 +3021,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3020,136,141,1,2,away_team,False,False,False,,Group Stage,Orlando,,1994
 3021,10,31,0,2,away_team,False,False,False,,Group Stage,Dallas,,1994
 3022,83,146,0,2,away_team,False,False,False,,Group Stage,Boston,,1994
-3023,81,21,3,2,home_team,False,False,False,,Round of 16,Chicago,,1994
+3023,72,21,3,2,home_team,False,False,False,,Round of 16,Chicago,,1994
 3024,190,196,3,0,home_team,False,False,False,,Round of 16,Washington,,1994
 3025,173,195,1,3,away_team,False,False,False,,Round of 16,Dallas,,1994
 3026,164,10,3,2,home_team,False,False,False,,Round of 16,Los Angeles,,1994
@@ -3031,16 +3031,16 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3030,131,31,1,1,draw,True,True,False,,Round of 16,New York,,1994
 3031,103,190,2,1,home_team,False,False,False,,Quarter-finals,Boston,,1994
 3032,141,28,2,3,away_team,False,False,False,,Quarter-finals,Dallas,,1994
-3033,31,81,2,1,home_team,False,False,False,,Quarter-finals,New York,,1994
+3033,31,72,2,1,home_team,False,False,False,,Quarter-finals,New York,,1994
 3034,164,195,2,2,draw,True,True,False,,Quarter-finals,San Francisco,,1994
 3035,31,103,1,2,away_team,False,False,False,,Semi-finals,New York,,1994
 3036,195,28,0,1,away_team,False,False,False,,Semi-finals,Los Angeles,,1994
 3037,195,31,4,0,home_team,False,False,False,,Third Place,Los Angeles,,1994
 3038,28,103,0,0,draw,True,True,False,,Final,Los Angeles,,1994
-3039,58,9,3,3,draw,False,False,False,,Preliminary,Roseau,,1998
+3039,58,8,3,3,draw,False,False,False,,Preliminary,Roseau,,1998
 3040,59,12,3,2,home_team,False,False,False,,Preliminary,Santo Domingo,,1998
-3041,90,84,1,2,away_team,False,False,False,,Preliminary,Georgetown,,1998
-3042,9,58,1,3,away_team,False,False,False,,Preliminary,St Johns,,1998
+3041,87,84,1,2,away_team,False,False,False,,Preliminary,Georgetown,,1998
+3042,8,58,1,3,away_team,False,False,False,,Preliminary,St Johns,,1998
 3043,12,59,1,3,away_team,False,False,False,,Preliminary,Oranjestad,,1998
 3044,193,105,0,1,away_team,False,False,False,,Preliminary,Paramaribo,,1998
 3045,84,87,6,0,home_team,False,False,False,,Preliminary,St Georges,,1998
@@ -3189,7 +3189,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3188,100,122,3,0,home_team,False,False,False,,Preliminary,Dublin,,1998
 3189,119,118,2,1,home_team,False,False,False,,Preliminary,Vilnius,,1998
 3190,2,160,0,3,away_team,False,False,False,,Preliminary,Tiranë,,1998
-3191,11,81,1,5,away_team,False,False,False,,Preliminary,Erevan,,1998
+3191,11,72,1,5,away_team,False,False,False,,Preliminary,Erevan,,1998
 3192,221,10,2,5,away_team,False,False,False,,Preliminary,San Cristóbal,,1998
 3193,64,43,0,1,away_team,False,False,False,,Preliminary,Quito,,1998
 3194,156,41,2,1,home_team,False,False,False,,Preliminary,Asunción,,1998
@@ -3210,7 +3210,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3209,141,223,7,1,home_team,False,False,False,,Preliminary,Eindhoven,,1998
 3210,118,122,1,11,away_team,False,False,False,,Preliminary,Eschen,,1998
 3211,2,11,1,1,draw,False,False,False,,Preliminary,Tiranë,,1998
-3212,81,149,1,1,draw,False,False,False,,Preliminary,Nürnberg,,1998
+3212,72,149,1,1,draw,False,False,False,,Preliminary,Nürnberg,,1998
 3213,160,215,1,0,home_team,False,False,False,,Preliminary,Porto,,1998
 3214,146,32,2,0,home_team,False,False,False,,Preliminary,Lagos,,1998
 3215,185,227,1,0,home_team,False,False,False,,Preliminary,Johannesburg,,1998
@@ -3257,7 +3257,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3256,21,141,0,3,away_team,False,False,False,,Preliminary,Bruxelles,,1998
 3257,122,164,0,3,away_team,False,False,False,,Preliminary,Skopje,,1998
 3258,149,2,2,0,home_team,False,False,False,,Preliminary,Belfast,,1998
-3259,160,81,0,0,draw,False,False,False,,Preliminary,Lisboa,,1998
+3259,160,72,0,0,draw,False,False,False,,Preliminary,Lisboa,,1998
 3260,213,47,2,1,home_team,False,False,False,,Preliminary,Palo Alto,,1998
 3261,102,120,1,0,home_team,False,False,False,,Preliminary,Tel Aviv,,1998
 3262,25,156,0,0,draw,False,False,False,,Preliminary,La Paz,,1998
@@ -3341,7 +3341,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3340,122,100,3,2,home_team,False,False,False,,Preliminary,Skopje,,1998
 3341,119,164,0,1,away_team,False,False,False,,Preliminary,Vilnius,,1998
 3342,215,149,2,1,home_team,False,False,False,,Preliminary,Kyïv,,1998
-3343,2,81,2,3,away_team,False,False,False,,Preliminary,Granada,,1998
+3343,2,72,2,3,away_team,False,False,False,,Preliminary,Granada,,1998
 3344,25,10,2,1,home_team,False,False,False,,Preliminary,La Paz,,1998
 3345,218,221,3,1,home_team,False,False,False,,Preliminary,Montevideo,,1998
 3346,156,43,2,1,home_team,False,False,False,,Preliminary,Asunción,,1998
@@ -3401,7 +3401,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3400,118,119,0,2,away_team,False,False,False,,Preliminary,Eschen,,1998
 3401,164,100,1,0,home_team,False,False,False,,Preliminary,Bucureşti,,1998
 3402,11,149,0,0,draw,False,False,False,,Preliminary,Erevan,,1998
-3403,81,215,2,0,home_team,False,False,False,,Preliminary,Bremen,,1998
+3403,72,215,2,0,home_team,False,False,False,,Preliminary,Bremen,,1998
 3404,10,64,2,1,home_team,False,False,False,,Preliminary,Buenos Aires,,1998
 3405,156,218,3,1,home_team,False,False,False,,Preliminary,Asunción,,1998
 3406,43,157,0,1,away_team,False,False,False,,Preliminary,Barranquilla,,1998
@@ -3444,7 +3444,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3443,21,172,6,0,home_team,False,False,False,,Preliminary,Bruxelles,,1998
 3444,122,95,1,0,home_team,False,False,False,,Preliminary,Skopje,,1998
 3445,160,2,2,0,home_team,False,False,False,,Preliminary,Porto,,1998
-3446,215,81,0,0,draw,False,False,False,,Preliminary,Kyïv,,1998
+3446,215,72,0,0,draw,False,False,False,,Preliminary,Kyïv,,1998
 3447,74,143,0,1,away_team,False,False,False,,Preliminary,Ba,,1998
 3448,146,109,3,0,home_team,False,False,False,,Preliminary,Lagos,,1998
 3449,136,82,1,0,home_team,False,False,False,,Preliminary,Casablanca,,1998
@@ -3539,7 +3539,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3538,118,95,0,4,away_team,False,False,False,,Preliminary,Eschen,,1998
 3539,164,122,4,2,home_team,False,False,False,,Preliminary,Bucureşti,,1998
 3540,100,119,0,0,draw,False,False,False,,Preliminary,Dublin,,1998
-3541,149,81,1,3,away_team,False,False,False,,Preliminary,Belfast,,1998
+3541,149,72,1,3,away_team,False,False,False,,Preliminary,Belfast,,1998
 3542,160,11,3,1,home_team,False,False,False,,Preliminary,Setúbal,,1998
 3543,215,2,1,0,home_team,False,False,False,,Preliminary,Kyïv,,1998
 3544,218,41,1,0,home_team,False,False,False,,Preliminary,Montevideo,,1998
@@ -3560,7 +3560,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3559,118,164,1,8,away_team,False,False,False,,Preliminary,Eschen,,1998
 3560,119,122,2,0,home_team,False,False,False,,Preliminary,Vilnius,,1998
 3561,11,2,3,0,home_team,False,False,False,,Preliminary,Erevan,,1998
-3562,81,160,1,1,draw,False,False,False,,Preliminary,Berlin,,1998
+3562,72,160,1,1,draw,False,False,False,,Preliminary,Berlin,,1998
 3563,186,108,3,0,home_team,False,False,False,,Preliminary,Seoul,,1998
 3564,174,20,4,1,home_team,False,False,False,,Preliminary,Aberdeen,,1998
 3565,120,51,1,3,away_team,False,False,False,,Preliminary,Luxembourg,,1998
@@ -3581,7 +3581,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3580,164,95,4,0,home_team,False,False,False,,Preliminary,Bucureşti,,1998
 3581,119,100,1,2,away_team,False,False,False,,Preliminary,Vilnius,,1998
 3582,2,149,1,0,home_team,False,False,False,,Preliminary,Zürich,,1998
-3583,81,11,4,0,home_team,False,False,False,,Preliminary,Dortmund,,1998
+3583,72,11,4,0,home_team,False,False,False,,Preliminary,Dortmund,,1998
 3584,41,10,1,2,away_team,False,False,False,,Preliminary,Santiago,,1998
 3585,157,218,2,1,home_team,False,False,False,,Preliminary,Lima,,1998
 3586,43,221,1,0,home_team,False,False,False,,Preliminary,Barranquilla,,1998
@@ -3630,7 +3630,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3629,100,164,1,1,draw,False,False,False,,Preliminary,Dublin,,1998
 3630,95,118,4,0,home_team,False,False,False,,Preliminary,Reykjavík,,1998
 3631,122,119,1,2,away_team,False,False,False,,Preliminary,Skopje,,1998
-3632,81,2,4,3,home_team,False,False,False,,Preliminary,Hannover,,1998
+3632,72,2,4,3,home_team,False,False,False,,Preliminary,Hannover,,1998
 3633,11,215,0,2,away_team,False,False,False,,Preliminary,Erevan,,1998
 3634,160,149,1,0,home_team,False,False,False,,Preliminary,Lisboa,,1998
 3635,173,162,1,0,home_team,False,False,False,,Preliminary,Riyadh,,1998
@@ -3696,7 +3696,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3695,105,48,1,3,away_team,False,False,False,,Group Stage,Lens,,1998
 3696,67,207,2,0,home_team,False,False,False,,Group Stage,Marseille,,1998
 3697,164,43,1,0,home_team,False,False,False,,Group Stage,Lyon,,1998
-3698,81,213,2,0,home_team,False,False,False,,Group Stage,Paris,,1998
+3698,72,213,2,0,home_team,False,False,False,,Group Stage,Paris,,1998
 3699,174,150,1,1,draw,False,False,False,,Group Stage,Bordeaux,,1998
 3700,28,136,3,0,home_team,False,False,False,,Group Stage,Nantes,,1998
 3701,41,14,1,1,draw,False,False,False,,Group Stage,Saint-Étienne,,1998
@@ -3708,7 +3708,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3707,106,48,0,1,away_team,False,False,False,,Group Stage,Nantes,,1998
 3708,21,131,2,2,draw,False,False,False,,Group Stage,Bordeaux,,1998
 3709,141,186,5,0,home_team,False,False,False,,Group Stage,Marseille,,1998
-3710,81,226,2,2,draw,False,False,False,,Group Stage,Lens,,1998
+3710,72,226,2,2,draw,False,False,False,,Group Stage,Lens,,1998
 3711,10,105,5,0,home_team,False,False,False,,Group Stage,Paris,,1998
 3712,213,98,1,2,away_team,False,False,False,,Group Stage,Lyon,,1998
 3713,43,207,1,0,home_team,False,False,False,,Group Stage,Montpellier,,1998
@@ -3724,7 +3724,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3723,141,131,2,2,draw,False,False,False,,Group Stage,Saint-Étienne,,1998
 3724,21,186,1,1,draw,False,False,False,,Group Stage,Paris,,1998
 3725,213,226,0,1,away_team,False,False,False,,Group Stage,Nantes,,1998
-3726,81,98,2,0,home_team,False,False,False,,Group Stage,Montpellier,,1998
+3726,72,98,2,0,home_team,False,False,False,,Group Stage,Montpellier,,1998
 3727,10,48,1,0,home_team,False,False,False,,Group Stage,Bordeaux,,1998
 3728,106,105,1,2,away_team,False,False,False,,Group Stage,Lyon,,1998
 3729,43,67,0,2,away_team,False,False,False,,Group Stage,Lens,,1998
@@ -3733,14 +3733,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3732,28,41,4,1,home_team,False,False,False,,Round of 16,Paris,,1998
 3733,76,156,1,0,home_team,True,False,False,,Round of 16,Lens,,1998
 3734,146,56,1,4,away_team,False,False,False,,Round of 16,Paris,,1998
-3735,81,131,2,1,home_team,False,False,False,,Round of 16,Montpellier,,1998
+3735,72,131,2,1,home_team,False,False,False,,Round of 16,Montpellier,,1998
 3736,141,226,2,1,home_team,False,False,False,,Round of 16,Toulouse,,1998
 3737,164,48,0,1,away_team,False,False,False,,Round of 16,Bordeaux,,1998
 3738,10,67,2,2,draw,True,True,False,,Round of 16,Saint-Étienne,,1998
 3739,103,76,0,0,draw,True,True,False,,Quarter-finals,Paris,,1998
 3740,28,56,3,2,home_team,False,False,False,,Quarter-finals,Nantes,,1998
 3741,141,10,2,1,home_team,False,False,False,,Quarter-finals,Marseille,,1998
-3742,81,48,0,3,away_team,False,False,False,,Quarter-finals,Lyon,,1998
+3742,72,48,0,3,away_team,False,False,False,,Quarter-finals,Lyon,,1998
 3743,28,141,1,1,draw,True,True,False,,Semi-finals,Marseille,,1998
 3744,76,48,2,1,home_team,False,False,False,,Semi-finals,Paris,,1998
 3745,48,141,2,1,home_team,False,False,False,,Third Place,Paris,,1998
@@ -3808,7 +3808,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3807,19,12,4,0,home_team,False,False,False,,Preliminary,Bridgetown,,2002
 3808,193,49,0,0,draw,False,False,False,,Preliminary,Paramaribo,,2002
 3809,170,168,1,0,home_team,False,False,False,,Preliminary,Kingstown,,2002
-3810,9,24,0,0,draw,False,False,False,,Preliminary,St Johns,,2002
+3810,8,24,0,0,draw,False,False,False,,Preliminary,St Johns,,2002
 3811,16,91,0,4,away_team,False,False,False,,Preliminary,Nassau,,2002
 3812,59,206,0,1,away_team,False,False,False,,Preliminary,San Cristóbal,,2002
 3813,22,66,1,3,away_team,False,False,False,,Preliminary,Orange Walk,,2002
@@ -3826,7 +3826,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3825,139,178,3,0,home_team,False,False,False,,Preliminary,Windhoek,,2002
 3826,146,69,4,0,home_team,False,False,False,,Preliminary,Lagos,,2002
 3827,109,124,0,0,draw,False,False,False,,Preliminary,Nairobi,,2002
-3828,24,9,1,1,draw,False,False,False,,Preliminary,Hamilton,,2002
+3828,24,8,1,1,draw,False,False,False,,Preliminary,Hamilton,,2002
 3829,204,89,3,0,home_team,False,False,False,,Preliminary,Lomé,,2002
 3830,175,23,1,0,home_team,False,False,False,,Preliminary,Dakar,,2002
 3831,6,194,7,1,home_team,False,False,False,,Preliminary,Luanda,,2002
@@ -3848,14 +3848,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3847,41,157,1,1,draw,False,False,False,,Preliminary,Santiago,,2002
 3848,28,64,3,2,home_team,False,False,False,,Preliminary,São Paulo,,2002
 3849,49,19,1,1,draw,False,False,False,,Preliminary,La Habana,,2002
-3850,9,170,2,1,home_team,False,False,False,,Preliminary,St Johns,,2002
+3850,8,170,2,1,home_team,False,False,False,,Preliminary,St Johns,,2002
 3851,206,91,3,1,home_team,False,False,False,,Preliminary,Port of Spain,,2002
 3852,66,86,1,1,draw,False,False,False,,Preliminary,San Salvador,,2002
 3853,92,154,3,1,home_team,False,False,False,,Preliminary,Tegucigalpa,,2002
 3854,91,206,1,1,draw,False,False,False,,Preliminary,Port-au-Prince,,2002
 3855,86,22,0,0,draw,False,False,False,,Preliminary,San Pedro Sula,,2002
 3856,19,49,1,1,draw,False,True,False,,Preliminary,Bridgetown,,2002
-3857,170,9,4,0,home_team,False,False,False,,Preliminary,Kingstown,,2002
+3857,170,8,4,0,home_team,False,False,False,,Preliminary,Kingstown,,2002
 3858,154,144,4,0,home_team,False,False,False,,Preliminary,Panamá,,2002
 3859,218,41,2,1,home_team,False,False,False,,Preliminary,Montevideo,,2002
 3860,156,64,3,1,home_team,False,False,False,,Preliminary,Asunción,,2002
@@ -3865,14 +3865,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3864,43,221,3,0,home_team,False,False,False,,Preliminary,Bogotá,,2002
 3865,49,36,0,1,away_team,False,False,False,,Preliminary,La Habana,,2002
 3866,36,49,0,0,draw,False,False,False,,Preliminary,Winnipeg,,2002
-3867,9,86,0,1,away_team,False,False,False,,Preliminary,St Johns,,2002
+3867,8,86,0,1,away_team,False,False,False,,Preliminary,St Johns,,2002
 3868,3,175,1,1,draw,False,False,False,,Preliminary,Annaba,,2002
 3869,91,92,1,3,away_team,False,False,False,,Preliminary,Port-au-Prince,,2002
 3870,146,179,2,0,home_team,False,False,False,,Preliminary,Lagos,,2002
 3871,139,136,0,0,draw,False,False,False,,Preliminary,Windhoek,,2002
 3872,123,54,3,0,home_team,False,False,False,,Preliminary,Antananarivo,,2002
 3873,124,32,1,1,draw,False,False,False,,Preliminary,Blantyre,,2002
-3874,86,9,8,1,home_team,False,False,False,,Preliminary,Guatemala,,2002
+3874,86,8,8,1,home_team,False,False,False,,Preliminary,Guatemala,,2002
 3875,6,228,2,1,home_team,False,False,False,,Preliminary,Luanda,,2002
 3876,117,35,0,3,away_team,False,False,False,,Preliminary,Tripoli,,2002
 3877,192,116,2,0,home_team,False,False,False,,Preliminary,Omdurman,,2002
@@ -3942,7 +3942,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3941,21,48,0,0,draw,False,False,False,,Preliminary,Bruxelles,,2002
 3942,26,190,1,2,away_team,False,False,False,,Preliminary,Sarajevo,,2002
 3943,75,2,2,1,home_team,False,False,False,,Preliminary,Helsinki,,2002
-3944,81,83,2,0,home_team,False,False,False,,Preliminary,Hamburg,,2002
+3944,72,83,2,0,home_team,False,False,False,,Preliminary,Hamburg,,2002
 3945,156,221,3,0,home_team,False,False,False,,Preliminary,Asunción,,2002
 3946,41,43,0,1,away_team,False,False,False,,Preliminary,Santiago,,2002
 3947,92,66,5,0,home_team,False,False,False,,Preliminary,San Pedro Sula,,2002
@@ -3981,7 +3981,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 3980,190,102,2,0,home_team,False,False,False,,Preliminary,Madrid,,2002
 3981,119,80,0,4,away_team,False,False,False,,Preliminary,Kaunas,,2002
 3982,103,164,3,0,home_team,False,False,False,,Preliminary,Milano,,2002
-3983,67,81,0,1,away_team,False,False,False,,Preliminary,London,,2002
+3983,67,72,0,1,away_team,False,False,False,,Preliminary,London,,2002
 3984,83,75,1,0,home_team,False,False,False,,Preliminary,Athína,,2002
 3985,43,156,0,2,away_team,False,False,False,,Preliminary,Bogotá,,2002
 3986,221,28,0,6,away_team,False,False,False,,Preliminary,Maracaibo,,2002
@@ -4118,7 +4118,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4117,94,119,1,1,draw,False,False,False,,Preliminary,Budapest,,2002
 4118,164,103,0,2,away_team,False,False,False,,Preliminary,Bucureşti,,2002
 4119,67,75,2,1,home_team,False,False,False,,Preliminary,Liverpool,,2002
-4120,81,2,2,1,home_team,False,False,False,,Preliminary,Leverkusen,,2002
+4120,72,2,2,1,home_team,False,False,False,,Preliminary,Leverkusen,,2002
 4121,131,105,4,0,home_team,False,False,False,,Preliminary,México DF,,2002
 4122,125,153,4,3,home_team,False,False,False,,Preliminary,Doha,,2002
 4123,93,162,0,3,away_team,False,False,False,,Preliminary,Doha,,2002
@@ -4144,7 +4144,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4143,80,164,0,2,away_team,False,False,False,,Preliminary,Tbilisi,,2002
 4144,103,119,4,0,home_team,False,False,False,,Preliminary,Trieste,,2002
 4145,2,67,1,3,away_team,False,False,False,,Preliminary,Tiranë,,2002
-4146,83,81,2,4,away_team,False,False,False,,Preliminary,Athína,,2002
+4146,83,72,2,4,away_team,False,False,False,,Preliminary,Athína,,2002
 4147,64,28,1,0,home_team,False,False,False,,Preliminary,Quito,,2002
 4148,218,156,0,1,away_team,False,False,False,,Preliminary,Montevideo,,2002
 4149,10,221,5,0,home_team,False,False,False,,Preliminary,Buenos Aires,,2002
@@ -4286,7 +4286,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4285,190,26,4,1,home_team,False,False,False,,Preliminary,Oviedo,,2002
 4286,164,94,2,0,home_team,False,False,False,,Preliminary,Bucureşti,,2002
 4287,80,103,1,2,away_team,False,False,False,,Preliminary,Tbilisi,,2002
-4288,75,81,2,2,draw,False,False,False,,Preliminary,Helsinki,,2002
+4288,75,72,2,2,draw,False,False,False,,Preliminary,Helsinki,,2002
 4289,83,2,1,0,home_team,False,False,False,,Preliminary,Iráklion,,2002
 4290,157,64,1,2,away_team,False,False,False,,Preliminary,Lima,,2002
 4291,156,41,1,0,home_team,False,False,False,,Preliminary,Asunción,,2002
@@ -4313,7 +4313,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4312,102,190,1,1,draw,False,False,False,,Preliminary,Tel Aviv,,2002
 4313,119,164,1,2,away_team,False,False,False,,Preliminary,Kaunas,,2002
 4314,94,80,4,1,home_team,False,False,False,,Preliminary,Budapest,,2002
-4315,2,81,0,2,away_team,False,False,False,,Preliminary,Tiranë,,2002
+4315,2,72,0,2,away_team,False,False,False,,Preliminary,Tiranë,,2002
 4316,83,67,0,2,away_team,False,False,False,,Preliminary,Athína,,2002
 4317,199,143,0,5,away_team,False,False,False,,Preliminary,Albany,,2002
 4318,46,220,1,8,away_team,False,False,False,,Preliminary,Albany,,2002
@@ -4401,7 +4401,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4400,119,103,0,0,draw,False,False,False,,Preliminary,Kaunas,,2002
 4401,80,94,3,1,home_team,False,False,False,,Preliminary,Tbilisi,,2002
 4402,2,75,0,2,away_team,False,False,False,,Preliminary,Tiranë,,2002
-4403,81,67,1,5,away_team,False,False,False,,Preliminary,München,,2002
+4403,72,67,1,5,away_team,False,False,False,,Preliminary,München,,2002
 4404,213,92,2,3,away_team,False,False,False,,Preliminary,Washington,,2002
 4405,206,47,0,2,away_team,False,False,False,,Preliminary,Port of Spain,,2002
 4406,203,98,0,0,draw,False,False,False,,Preliminary,Bangkok,,2002
@@ -4473,7 +4473,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4472,103,94,1,0,home_team,False,False,False,,Preliminary,Parma,,2002
 4473,164,80,1,1,draw,False,False,False,,Preliminary,Bucureşti,,2002
 4474,67,83,2,2,draw,False,False,False,,Preliminary,Manchester,,2002
-4475,81,75,0,0,draw,False,False,False,,Preliminary,Gelsenkirchen,,2002
+4475,72,75,0,0,draw,False,False,False,,Preliminary,Gelsenkirchen,,2002
 4476,25,64,1,5,away_team,False,False,False,,Preliminary,La Paz,,2002
 4477,221,157,3,0,home_team,False,False,False,,Preliminary,San Cristóbal,,2002
 4478,195,15,3,0,home_team,False,False,False,,Preliminary,Stockholm,,2002
@@ -4502,7 +4502,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4501,25,28,3,1,home_team,False,False,False,,Preliminary,La Paz,,2002
 4502,10,157,2,0,home_team,False,False,False,,Preliminary,Buenos Aires,,2002
 4503,221,156,3,1,home_team,False,False,False,,Preliminary,San Cristóbal,,2002
-4504,215,81,1,1,draw,False,False,False,,Preliminary,Kyïv,,2002
+4504,215,72,1,1,draw,False,False,False,,Preliminary,Kyïv,,2002
 4505,182,164,2,1,home_team,False,False,False,,Preliminary,Ljubljana,,2002
 4506,21,52,1,0,home_team,False,False,False,,Preliminary,Bruxelles,,2002
 4507,14,208,0,1,away_team,False,False,False,,Preliminary,Wien,,2002
@@ -4510,7 +4510,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4509,131,92,3,0,home_team,False,False,False,,Preliminary,México DF,,2002
 4510,206,213,0,0,draw,False,False,False,,Preliminary,Port of Spain,,2002
 4511,105,47,0,1,away_team,False,False,False,,Preliminary,Kingston,,2002
-4512,81,215,4,1,home_team,False,False,False,,Preliminary,Dortmund,,2002
+4512,72,215,4,1,home_team,False,False,False,,Preliminary,Dortmund,,2002
 4513,164,181,1,1,draw,False,False,False,,Preliminary,Bucureşti,,2002
 4514,52,21,0,1,away_team,False,False,False,,Preliminary,Praha,,2002
 4515,208,14,5,0,home_team,False,False,False,,Preliminary,İstanbul,,2002
@@ -4525,7 +4525,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4524,76,175,0,1,away_team,False,False,False,,Group Stage,Seoul,,2002
 4525,100,35,1,1,draw,False,False,False,,Group Stage,Niigata,,2002
 4526,218,56,1,2,away_team,False,False,False,,Group Stage,Ulsan,,2002
-4527,81,173,8,0,home_team,False,False,False,,Group Stage,Sapporo,,2002
+4527,72,173,8,0,home_team,False,False,False,,Group Stage,Sapporo,,2002
 4528,10,146,1,0,home_team,False,False,False,,Group Stage,Ibaraki,,2002
 4529,156,185,2,2,draw,False,False,False,,Group Stage,Busan,,2002
 4530,67,195,1,1,draw,False,False,False,,Group Stage,Saitama,,2002
@@ -4538,7 +4538,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4537,186,159,2,0,home_team,False,False,False,,Group Stage,Busan,,2002
 4538,165,207,2,0,home_team,False,False,False,,Group Stage,Kobe,,2002
 4539,213,160,3,2,home_team,False,False,False,,Group Stage,Suwon,,2002
-4540,81,100,1,1,draw,False,False,False,,Group Stage,Ibaraki,,2002
+4540,72,100,1,1,draw,False,False,False,,Group Stage,Ibaraki,,2002
 4541,56,175,1,1,draw,False,False,False,,Group Stage,Daegu,,2002
 4542,35,173,1,0,home_team,False,False,False,,Group Stage,Saitama,,2002
 4543,76,218,0,0,draw,False,False,False,,Group Stage,Busan,,2002
@@ -4556,7 +4556,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4555,160,159,4,0,home_team,False,False,False,,Group Stage,Jeonju,,2002
 4556,56,76,2,0,home_team,False,False,False,,Group Stage,Incheon,,2002
 4557,175,218,3,3,draw,False,False,False,,Group Stage,Suwon,,2002
-4558,35,81,0,2,away_team,False,False,False,,Group Stage,Shizuoka,,2002
+4558,35,72,0,2,away_team,False,False,False,,Group Stage,Shizuoka,,2002
 4559,173,100,0,3,away_team,False,False,False,,Group Stage,Yokohama,,2002
 4560,195,10,1,1,draw,False,False,False,,Group Stage,Miyagi,,2002
 4561,146,67,0,0,draw,False,False,False,,Group Stage,Osaka,,2002
@@ -4570,7 +4570,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4569,207,106,0,2,away_team,False,False,False,,Group Stage,Osaka,,2002
 4570,159,213,3,1,home_team,False,False,False,,Group Stage,Daejeon,,2002
 4571,160,186,0,1,away_team,False,False,False,,Group Stage,Incheon,,2002
-4572,81,156,1,0,home_team,False,False,False,,Round of 16,Seogwipo,,2002
+4572,72,156,1,0,home_team,False,False,False,,Round of 16,Seogwipo,,2002
 4573,56,67,0,3,away_team,False,False,False,,Round of 16,Niigata,,2002
 4574,195,175,1,2,away_team,True,False,False,,Round of 16,Oita,,2002
 4575,190,100,1,1,draw,True,True,False,,Round of 16,Suwon,,2002
@@ -4579,13 +4579,13 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4578,106,208,0,1,away_team,False,False,False,,Round of 16,Miyagi,,2002
 4579,186,103,2,1,home_team,True,False,False,,Round of 16,Daejeon,,2002
 4580,67,28,1,2,away_team,False,False,False,,Quarter-finals,Shizuoka,,2002
-4581,81,213,1,0,home_team,False,False,False,,Quarter-finals,Ulsan,,2002
+4581,72,213,1,0,home_team,False,False,False,,Quarter-finals,Ulsan,,2002
 4582,190,186,0,0,draw,True,True,False,,Quarter-finals,Gwangju,,2002
 4583,175,208,0,1,away_team,True,False,False,,Quarter-finals,Osaka,,2002
-4584,81,186,1,0,home_team,False,False,False,,Semi-finals,Seoul,,2002
+4584,72,186,1,0,home_team,False,False,False,,Semi-finals,Seoul,,2002
 4585,28,208,1,0,home_team,False,False,False,,Semi-finals,Saitama,,2002
 4586,208,186,3,2,home_team,False,False,False,,Third Place,Daegu,,2002
-4587,28,81,2,0,home_team,False,False,False,,Final,Yokohama,,2002
+4587,28,72,2,0,home_team,False,False,False,,Final,Yokohama,,2002
 4588,10,41,2,2,draw,False,False,False,,Preliminary,Buenos Aires,,2006
 4589,64,221,2,0,home_team,False,False,False,,Preliminary,Quito,,2006
 4590,157,156,4,1,home_team,False,False,False,,Preliminary,Lima,,2006
@@ -4659,7 +4659,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4658,111,152,4,0,home_team,False,False,False,,Preliminary,Bishkek,,2006
 4659,126,133,12,0,home_team,False,False,False,,Preliminary,Malé,,2006
 4660,91,210,5,0,home_team,False,False,False,,Preliminary,Miami,,2006
-4661,9,60,2,0,home_team,False,False,False,,Preliminary,St Johns,,2006
+4661,8,60,2,0,home_team,False,False,False,,Preliminary,St Johns,,2006
 4662,212,168,0,4,away_team,False,False,False,,Preliminary,St Thomas,,2006
 4663,107,112,5,0,home_team,False,False,False,,Preliminary,Amman,,2006
 4664,98,162,3,1,home_team,False,False,False,,Preliminary,Tehran,,2006
@@ -4680,10 +4680,10 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4679,210,91,0,2,away_team,False,False,False,,Preliminary,Hialeah,,2006
 4680,38,49,1,2,away_team,False,False,False,,Preliminary,Georgetown,,2006
 4681,29,169,0,1,away_team,False,False,False,,Preliminary,Road Town,,2006
-4682,84,90,5,0,home_team,False,False,False,,Preliminary,St Georges,,2006
+4682,84,87,5,0,home_team,False,False,False,,Preliminary,St Georges,,2006
 4683,12,193,1,2,away_team,False,False,False,,Preliminary,Oranjestad,,2006
 4684,24,135,13,0,home_team,False,False,False,,Preliminary,Hamilton,,2006
-4685,90,84,1,3,away_team,False,False,False,,Preliminary,Blairmont,,2006
+4685,87,84,1,3,away_team,False,False,False,,Preliminary,Blairmont,,2006
 4686,59,7,0,0,draw,False,False,False,,Preliminary,Santo Domingo,,2006
 4687,135,24,0,7,away_team,False,False,False,,Preliminary,Plymouth,,2006
 4688,7,59,0,6,away_team,False,False,False,,Preliminary,Santo Domingo,,2006
@@ -4697,7 +4697,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 4696,156,28,0,0,draw,False,False,False,,Preliminary,Asunción,,2006
 4697,157,43,0,2,away_team,False,False,False,,Preliminary,Lima,,2006
 4698,218,221,0,3,away_team,False,False,False,,Preliminary,Montevideo,,2006
-4699,60,9,3,0,home_team,False,False,False,,Preliminary,Willemstad,,2006
+4699,60,8,3,0,home_team,False,False,False,,Preliminary,Willemstad,,2006
 4700,168,212,7,0,home_team,False,False,False,,Preliminary,Basseterre,,2006
 4701,107,162,1,0,home_team,False,False,False,,Preliminary,Amman,,2006
 4702,112,98,0,7,away_team,False,False,False,,Preliminary,Vientiane,,2006
@@ -5433,7 +5433,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5432,52,150,1,0,home_team,False,False,False,,Preliminary,Praha,,2006
 5433,13,218,1,0,home_team,False,True,False,,Preliminary,Sydney,,2006
 5434,17,206,0,1,away_team,False,False,False,,Preliminary,Manama,,2006
-5435,81,47,4,2,home_team,False,False,False,,Group Stage,München,,2006
+5435,72,47,4,2,home_team,False,False,False,,Group Stage,München,,2006
 5436,159,64,0,2,away_team,False,False,False,,Group Stage,Gelsenkirchen,,2006
 5437,67,156,1,0,home_team,False,False,False,,Group Stage,Frankfurt am Main,,2006
 5438,206,195,0,0,draw,False,False,False,,Group Stage,Dortmund,,2006
@@ -5449,7 +5449,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5448,28,48,1,0,home_team,False,False,False,,Group Stage,Berlin,,2006
 5449,190,215,4,0,home_team,False,False,False,,Group Stage,Leipzig,,2006
 5450,207,173,2,2,draw,False,False,False,,Group Stage,München,,2006
-5451,81,159,1,0,home_team,False,False,False,,Group Stage,Dortmund,,2006
+5451,72,159,1,0,home_team,False,False,False,,Group Stage,Dortmund,,2006
 5452,64,47,3,0,home_team,False,False,False,,Group Stage,Hamburg,,2006
 5453,67,206,2,0,home_team,False,False,False,,Group Stage,Nürnberg,,2006
 5454,195,156,1,0,home_team,False,False,False,,Group Stage,Berlin,,2006
@@ -5465,7 +5465,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5464,204,196,0,2,away_team,False,False,False,,Group Stage,Dortmund,,2006
 5465,173,215,0,4,away_team,False,False,False,,Group Stage,Hamburg,,2006
 5466,190,207,3,1,home_team,False,False,False,,Group Stage,Stuttgart,,2006
-5467,64,81,0,3,away_team,False,False,False,,Group Stage,Berlin,,2006
+5467,64,72,0,3,away_team,False,False,False,,Group Stage,Berlin,,2006
 5468,47,159,1,2,away_team,False,False,False,,Group Stage,Hannover,,2006
 5469,195,67,2,2,draw,False,False,False,,Group Stage,Köln,,2006
 5470,156,206,2,0,home_team,False,False,False,,Group Stage,Kaiserslautern,,2006
@@ -5481,7 +5481,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5480,215,207,1,0,home_team,False,False,False,,Group Stage,Berlin,,2006
 5481,204,76,0,2,away_team,False,False,False,,Group Stage,Köln,,2006
 5482,196,186,2,0,home_team,False,False,False,,Group Stage,Hannover,,2006
-5483,81,195,2,0,home_team,False,False,False,,Round of 16,München,,2006
+5483,72,195,2,0,home_team,False,False,False,,Round of 16,München,,2006
 5484,10,131,2,1,home_team,True,False,False,,Round of 16,Leipzig,,2006
 5485,67,64,1,0,home_team,False,False,False,,Round of 16,Stuttgart,,2006
 5486,160,141,1,0,home_team,False,False,False,,Round of 16,Nürnberg,,2006
@@ -5489,13 +5489,13 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5488,196,215,0,0,draw,True,True,False,,Round of 16,Köln,,2006
 5489,28,82,3,0,home_team,False,False,False,,Round of 16,Dortmund,,2006
 5490,190,76,1,3,away_team,False,False,False,,Round of 16,Hannover,,2006
-5491,81,10,1,1,draw,True,True,False,,Quarter-finals,Berlin,,2006
+5491,72,10,1,1,draw,True,True,False,,Quarter-finals,Berlin,,2006
 5492,103,215,3,0,home_team,False,False,False,,Quarter-finals,Hamburg,,2006
 5493,67,160,0,0,draw,True,True,False,,Quarter-finals,Gelsenkirchen,,2006
 5494,28,76,0,1,away_team,False,False,False,,Quarter-finals,Frankfurt am Main,,2006
-5495,81,103,0,2,away_team,True,False,False,,Semi-finals,Dortmund,,2006
+5495,72,103,0,2,away_team,True,False,False,,Semi-finals,Dortmund,,2006
 5496,160,76,0,1,away_team,False,False,False,,Semi-finals,München,,2006
-5497,81,160,3,1,home_team,False,False,False,,Third Place,Stuttgart,,2006
+5497,72,160,3,1,home_team,False,False,False,,Third Place,Stuttgart,,2006
 5498,103,76,1,1,draw,True,True,False,,Final,Berlin,,2006
 5499,199,142,0,1,away_team,False,False,False,,Preliminary,Apia,,2010
 5500,74,211,16,0,home_team,False,False,False,,Preliminary,Apia,,2010
@@ -5599,7 +5599,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5598,58,19,1,1,draw,False,False,False,,Preliminary,Roseau,,2010
 5599,66,7,12,0,home_team,False,False,False,,Preliminary,San Salvador,,2010
 5600,210,169,2,1,home_team,False,False,False,,Preliminary,Providenciales,,2010
-5601,12,9,0,3,away_team,False,False,False,,Preliminary,Oranjestad,,2010
+5601,12,8,0,3,away_team,False,False,False,,Preliminary,Oranjestad,,2010
 5602,99,42,1,1,draw,False,False,False,,Preliminary,Dubai,,2010
 5603,13,162,3,0,home_team,False,False,False,,Preliminary,Melbourne,,2010
 5604,151,17,0,1,away_team,False,False,False,,Preliminary,Muscat,,2010
@@ -5615,7 +5615,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5614,19,58,1,0,home_team,False,False,False,,Preliminary,Bridgetown,,2010
 5615,7,66,0,4,away_team,False,False,False,,Preliminary,Washington,,2010
 5616,169,210,2,0,home_team,False,False,False,,Preliminary,Vieux-Fort,,2010
-5617,9,12,1,0,home_team,False,False,False,,Preliminary,St Johns,,2010
+5617,8,12,1,0,home_team,False,False,False,,Preliminary,St Johns,,2010
 5618,84,212,10,0,home_team,False,False,False,,Preliminary,St Georges,,2010
 5619,135,193,1,7,away_team,False,False,False,,Preliminary,Macoya,,2010
 5620,161,59,1,0,home_team,False,False,False,,Preliminary,Bayamón,,2010
@@ -5704,7 +5704,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5703,161,92,2,2,draw,False,False,False,,Preliminary,Bayamón,,2010
 5704,86,169,6,0,home_team,False,False,False,,Preliminary,Guatemala,,2010
 5705,84,47,2,2,draw,False,False,False,,Preliminary,St Georges,,2010
-5706,193,90,1,0,home_team,False,False,False,,Preliminary,Paramaribo,,2010
+5706,193,87,1,0,home_team,False,False,False,,Preliminary,Paramaribo,,2010
 5707,162,13,1,3,away_team,False,False,False,,Preliminary,Doha,,2010
 5708,42,99,1,2,away_team,False,False,False,,Preliminary,Tianjin,,2010
 5709,17,151,1,1,draw,False,False,False,,Preliminary,Manama,,2010
@@ -5748,7 +5748,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5747,33,207,0,1,away_team,False,False,False,,Preliminary,Bujumbura,,2010
 5748,194,228,0,0,draw,False,False,False,,Preliminary,Mbabane,,2010
 5749,218,157,6,0,home_team,False,False,False,,Preliminary,Montevideo,,2010
-5750,9,49,3,4,away_team,False,False,False,,Preliminary,St Johns,,2010
+5750,8,49,3,4,away_team,False,False,False,,Preliminary,St Johns,,2010
 5751,28,10,0,0,draw,False,False,False,,Preliminary,Belo Horizonte,,2010
 5752,64,43,0,0,draw,False,False,False,,Preliminary,Quito,,2010
 5753,25,156,4,2,home_team,False,False,False,,Preliminary,La Paz,,2010
@@ -5769,12 +5769,12 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5768,32,178,4,1,home_team,False,False,False,,Preliminary,Ouagadougou,,2010
 5769,207,33,2,1,home_team,False,False,False,,Preliminary,Radès,,2010
 5770,228,194,1,0,home_team,False,False,False,,Preliminary,Chililabombwe,,2010
-5771,90,193,1,2,away_team,False,False,False,,Preliminary,Georgetown,,2010
+5771,87,193,1,2,away_team,False,False,False,,Preliminary,Georgetown,,2010
 5772,19,213,0,1,away_team,False,False,False,,Preliminary,Bridgetown,,2010
 5773,24,206,0,2,away_team,False,False,False,,Preliminary,Prospect,,2010
 5774,66,154,3,1,home_team,False,False,False,,Preliminary,San Salvador,,2010
 5775,60,91,0,1,away_team,False,False,False,,Preliminary,Willemstad,,2010
-5776,49,9,4,0,home_team,False,False,False,,Preliminary,La Habana,,2010
+5776,49,8,4,0,home_team,False,False,False,,Preliminary,La Habana,,2010
 5777,99,162,0,1,away_team,False,False,False,,Preliminary,Dubai,,2010
 5778,13,42,0,1,away_team,False,False,False,,Preliminary,Sydney,,2010
 5779,151,203,2,1,home_team,False,False,False,,Preliminary,Muscat,,2010
@@ -5818,7 +5818,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5817,159,182,1,1,draw,False,False,False,,Preliminary,Wrocław,,2010
 5818,181,149,2,1,home_team,False,False,False,,Preliminary,Bratislava,,2010
 5819,223,15,1,0,home_team,False,False,False,,Preliminary,Cardiff,,2010
-5820,118,81,0,6,away_team,False,False,False,,Preliminary,Vaduz,,2010
+5820,118,72,0,6,away_team,False,False,False,,Preliminary,Vaduz,,2010
 5821,190,26,1,0,home_team,False,False,False,,Preliminary,Murcia,,2010
 5822,21,70,3,2,home_team,False,False,False,,Preliminary,Liège,,2010
 5823,11,208,0,2,away_team,False,False,False,,Preliminary,Erevan,,2010
@@ -5878,7 +5878,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5877,172,159,0,2,away_team,False,False,False,,Preliminary,Serravalle,,2010
 5878,182,181,2,1,home_team,False,False,False,,Preliminary,Maribor,,2010
 5879,149,52,0,0,draw,False,False,False,,Preliminary,Belfast,,2010
-5880,75,81,3,3,draw,False,False,False,,Preliminary,Helsinki,,2010
+5880,75,72,3,3,draw,False,False,False,,Preliminary,Helsinki,,2010
 5881,15,118,0,0,draw,False,False,False,,Preliminary,Baku,,2010
 5882,165,223,2,1,home_team,False,False,False,,Preliminary,Moskva,,2010
 5883,26,70,7,0,home_team,False,False,False,,Preliminary,Zenica,,2010
@@ -5921,7 +5921,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5920,159,52,2,1,home_team,False,False,False,,Preliminary,Chorzów,,2010
 5921,182,149,2,0,home_team,False,False,False,,Preliminary,Maribor,,2010
 5922,172,181,1,3,away_team,False,False,False,,Preliminary,Serravalle,,2010
-5923,81,165,2,1,home_team,False,False,False,,Preliminary,Dortmund,,2010
+5923,72,165,2,1,home_team,False,False,False,,Preliminary,Dortmund,,2010
 5924,223,118,2,0,home_team,False,False,False,,Preliminary,Cardiff,,2010
 5925,75,15,1,0,home_team,False,False,False,,Preliminary,Helsinki,,2010
 5926,208,26,2,1,home_team,False,False,False,,Preliminary,İstanbul,,2010
@@ -5979,7 +5979,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 5978,52,182,1,0,home_team,False,False,False,,Preliminary,Teplice,,2010
 5979,181,159,2,1,home_team,False,False,False,,Preliminary,Bratislava,,2010
 5980,165,75,3,0,home_team,False,False,False,,Preliminary,Moskva,,2010
-5981,81,223,1,0,home_team,False,False,False,,Preliminary,Mönchengladbach,,2010
+5981,72,223,1,0,home_team,False,False,False,,Preliminary,Mönchengladbach,,2010
 5982,21,190,1,2,away_team,False,False,False,,Preliminary,Bruxelles,,2010
 5983,70,208,0,0,draw,False,False,False,,Preliminary,Tallinn,,2010
 5984,26,11,4,1,home_team,False,False,False,,Preliminary,Zenica,,2010
@@ -6037,7 +6037,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6036,149,159,3,2,home_team,False,False,False,,Preliminary,Belfast,,2010
 6037,182,52,0,0,draw,False,False,False,,Preliminary,Maribor,,2010
 6038,165,15,2,0,home_team,False,False,False,,Preliminary,Moskva,,2010
-6039,81,118,4,0,home_team,False,False,False,,Preliminary,Leipzig,,2010
+6039,72,118,4,0,home_team,False,False,False,,Preliminary,Leipzig,,2010
 6040,223,75,0,2,away_team,False,False,False,,Preliminary,Cardiff,,2010
 6041,11,70,2,2,draw,False,False,False,,Preliminary,Erevan,,2010
 6042,21,26,2,4,away_team,False,False,False,,Preliminary,Genk,,2010
@@ -6080,7 +6080,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6079,149,182,1,0,home_team,False,False,False,,Preliminary,Belfast,,2010
 6080,159,172,10,0,home_team,False,False,False,,Preliminary,Kielce,,2010
 6081,118,165,0,1,away_team,False,False,False,,Preliminary,Vaduz,,2010
-6082,223,81,0,2,away_team,False,False,False,,Preliminary,Cardiff,,2010
+6082,223,72,0,2,away_team,False,False,False,,Preliminary,Cardiff,,2010
 6083,70,11,1,0,home_team,False,False,False,,Preliminary,Tallinn,,2010
 6084,208,190,1,2,away_team,False,False,False,,Preliminary,İstanbul,,2010
 6085,26,21,2,1,home_team,False,False,False,,Preliminary,Zenica,,2010
@@ -6174,7 +6174,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6173,88,124,2,1,home_team,False,False,False,,Preliminary,Conakry,,2010
 6174,65,166,3,0,home_team,False,False,False,,Preliminary,Cairo,,2010
 6175,182,172,5,0,home_team,False,False,False,,Preliminary,Maribor,,2010
-6176,15,81,0,2,away_team,False,False,False,,Preliminary,Baku,,2010
+6176,15,72,0,2,away_team,False,False,False,,Preliminary,Baku,,2010
 6177,20,48,1,3,away_team,False,False,False,,Preliminary,Minsk,,2010
 6178,73,76,0,1,away_team,False,False,False,,Preliminary,Tórshavn,,2010
 6179,150,174,4,0,home_team,False,False,False,,Preliminary,Oslo,,2010
@@ -6230,7 +6230,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6229,182,159,3,0,home_team,False,False,False,,Preliminary,Maribor,,2010
 6230,149,181,0,2,away_team,False,False,False,,Preliminary,Belfast,,2010
 6231,52,172,7,0,home_team,False,False,False,,Preliminary,Uherské Hradiště,,2010
-6232,81,15,4,0,home_team,False,False,False,,Preliminary,Hannover,,2010
+6232,72,15,4,0,home_team,False,False,False,,Preliminary,Hannover,,2010
 6233,118,75,1,1,draw,False,False,False,,Preliminary,Vaduz,,2010
 6234,223,165,1,3,away_team,False,False,False,,Preliminary,Cardiff,,2010
 6235,190,70,3,0,home_team,False,False,False,,Preliminary,Mérida,,2010
@@ -6263,7 +6263,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6262,120,196,0,3,away_team,False,False,False,,Preliminary,Luxembourg,,2010
 6263,52,159,2,0,home_team,False,False,False,,Preliminary,Praha,,2010
 6264,181,182,0,2,away_team,False,False,False,,Preliminary,Bratislava,,2010
-6265,165,81,0,1,away_team,False,False,False,,Preliminary,Moskva,,2010
+6265,165,72,0,1,away_team,False,False,False,,Preliminary,Moskva,,2010
 6266,75,223,2,1,home_team,False,False,False,,Preliminary,Helsinki,,2010
 6267,118,15,0,2,away_team,False,False,False,,Preliminary,Vaduz,,2010
 6268,11,190,1,2,away_team,False,False,False,,Preliminary,Erevan,,2010
@@ -6306,7 +6306,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6305,52,149,0,0,draw,False,False,False,,Preliminary,Praha,,2010
 6306,159,181,0,1,away_team,False,False,False,,Preliminary,Chorzów,,2010
 6307,118,223,0,2,away_team,False,False,False,,Preliminary,Vaduz,,2010
-6308,81,75,1,1,draw,False,False,False,,Preliminary,Hamburg,,2010
+6308,72,75,1,1,draw,False,False,False,,Preliminary,Hamburg,,2010
 6309,15,165,1,1,draw,False,False,False,,Preliminary,Baku,,2010
 6310,70,21,2,0,home_team,False,False,False,,Preliminary,Tallinn,,2010
 6311,208,11,2,0,home_team,False,False,False,,Preliminary,Bursa,,2010
@@ -6357,7 +6357,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6356,67,213,1,1,draw,False,False,False,,Group Stage,Rustenburg,,2010
 6357,3,182,0,1,away_team,False,False,False,,Group Stage,Polokwane,,2010
 6358,176,82,0,1,away_team,False,False,False,,Group Stage,Pretoria,,2010
-6359,81,13,4,0,home_team,False,False,False,,Group Stage,Durban,,2010
+6359,72,13,4,0,home_team,False,False,False,,Group Stage,Durban,,2010
 6360,141,56,2,0,home_team,False,False,False,,Group Stage,Johannesburg,,2010
 6361,106,35,1,0,home_team,False,False,False,,Group Stage,Bloemfontein,,2010
 6362,103,156,1,1,draw,False,False,False,,Group Stage,Cape Town,,2010
@@ -6370,7 +6370,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6369,10,186,4,1,home_team,False,False,False,,Group Stage,Johannesburg,,2010
 6370,83,146,2,1,home_team,False,False,False,,Group Stage,Bloemfontein,,2010
 6371,76,131,0,2,away_team,False,False,False,,Group Stage,Polokwane,,2010
-6372,81,176,0,1,away_team,False,False,False,,Group Stage,Port Elizabeth,,2010
+6372,72,176,0,1,away_team,False,False,False,,Group Stage,Port Elizabeth,,2010
 6373,182,213,2,2,draw,False,False,False,,Group Stage,Johannesburg,,2010
 6374,67,3,0,0,draw,False,False,False,,Group Stage,Cape Town,,2010
 6375,141,106,1,0,home_team,False,False,False,,Group Stage,Durban,,2010
@@ -6388,7 +6388,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6387,83,10,0,2,away_team,False,False,False,,Group Stage,Polokwane,,2010
 6388,182,67,0,1,away_team,False,False,False,,Group Stage,Port Elizabeth,,2010
 6389,213,3,1,0,home_team,False,False,False,,Group Stage,Pretoria,,2010
-6390,82,81,0,1,away_team,False,False,False,,Group Stage,Johannesburg,,2010
+6390,82,72,0,1,away_team,False,False,False,,Group Stage,Johannesburg,,2010
 6391,13,176,2,1,home_team,False,False,False,,Group Stage,Nelspruit,,2010
 6392,181,103,3,2,home_team,False,False,False,,Group Stage,Johannesburg,,2010
 6393,156,143,0,0,draw,False,False,False,,Group Stage,Polokwane,,2010
@@ -6400,7 +6400,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6399,196,92,0,0,draw,False,False,False,,Group Stage,Bloemfontein,,2010
 6400,218,186,2,1,home_team,False,False,False,,Round of 16,Port Elizabeth,,2010
 6401,213,82,1,2,away_team,True,False,False,,Round of 16,Rustenburg,,2010
-6402,81,67,4,1,home_team,False,False,False,,Round of 16,Bloemfontein,,2010
+6402,72,67,4,1,home_team,False,False,False,,Round of 16,Bloemfontein,,2010
 6403,10,131,3,1,home_team,False,False,False,,Round of 16,Johannesburg,,2010
 6404,141,181,2,1,home_team,False,False,False,,Round of 16,Durban,,2010
 6405,28,41,3,0,home_team,False,False,False,,Round of 16,Johannesburg,,2010
@@ -6408,11 +6408,11 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6407,190,160,1,0,home_team,False,False,False,,Round of 16,Cape Town,,2010
 6408,141,28,2,1,home_team,False,False,False,,Quarter-finals,Port Elizabeth,,2010
 6409,218,82,1,1,draw,True,True,False,,Quarter-finals,Johannesburg,,2010
-6410,10,81,0,4,away_team,False,False,False,,Quarter-finals,Cape Town,,2010
+6410,10,72,0,4,away_team,False,False,False,,Quarter-finals,Cape Town,,2010
 6411,156,190,0,1,away_team,False,False,False,,Quarter-finals,Johannesburg,,2010
 6412,218,141,2,3,away_team,False,False,False,,Semi-finals,Cape Town,,2010
-6413,81,190,0,1,away_team,False,False,False,,Semi-finals,Durban,,2010
-6414,218,81,2,3,away_team,False,False,False,,Third Place,Port Elizabeth,,2010
+6413,72,190,0,1,away_team,False,False,False,,Semi-finals,Durban,,2010
+6414,218,72,2,3,away_team,False,False,False,,Third Place,Port Elizabeth,,2010
 6415,141,190,0,1,away_team,True,False,False,,Final,Johannesburg,,2010
 6416,135,22,2,5,away_team,False,False,False,,Preliminary,Couva,,2014
 6417,140,63,2,1,home_team,False,False,False,,Preliminary,Kathmandu,,2014
@@ -6483,14 +6483,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6482,193,38,1,0,home_team,False,False,False,,Preliminary,Paramaribo,,2014
 6483,66,59,3,2,home_team,False,False,False,,Preliminary,San Salvador,,2014
 6484,206,24,1,0,home_team,False,False,False,,Preliminary,Port of Spain,,2014
-6485,90,19,2,0,home_team,False,False,False,,Preliminary,Georgetown,,2014
+6485,87,19,2,0,home_team,False,False,False,,Preliminary,Georgetown,,2014
 6486,58,144,0,2,away_team,False,False,False,,Preliminary,Roseau,,2014
 6487,168,161,0,0,draw,False,False,False,,Preliminary,Basseterre,,2014
 6488,36,169,4,1,home_team,False,False,False,,Preliminary,Toronto,,2014
 6489,84,22,0,3,away_team,False,False,False,,Preliminary,St Georges,,2014
 6490,86,170,4,0,home_team,False,False,False,,Preliminary,Guatemala,,2014
 6491,91,212,6,0,home_team,False,False,False,,Preliminary,Port-au-Prince,,2014
-6492,9,50,5,2,home_team,False,False,False,,Preliminary,St Johns,,2014
+6492,8,50,5,2,home_team,False,False,False,,Preliminary,St Johns,,2014
 6493,107,42,2,1,home_team,False,False,False,,Preliminary,Amman,,2014
 6494,180,99,0,2,away_team,False,False,False,,Preliminary,Singapore,,2014
 6495,114,216,3,1,home_team,False,False,False,,Preliminary,Beirut,,2014
@@ -6504,17 +6504,17 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6503,59,193,1,1,draw,False,False,False,,Preliminary,San Salvador,,2014
 6504,38,66,1,4,away_team,False,False,False,,Preliminary,Georgetown,,2014
 6505,19,206,0,2,away_team,False,False,False,,Preliminary,Bridgetown,,2014
-6506,90,24,2,1,home_team,False,False,False,,Preliminary,Georgetown,,2014
+6506,87,24,2,1,home_team,False,False,False,,Preliminary,Georgetown,,2014
 6507,144,154,1,2,away_team,False,False,False,,Preliminary,Managua,,2014
 6508,169,168,2,4,away_team,False,False,False,,Preliminary,Gros Islet,,2014
 6509,161,36,0,3,away_team,False,False,False,,Preliminary,Bayamón,,2014
 6510,22,86,1,2,away_team,False,False,False,,Preliminary,Belmopan,,2014
-6511,212,9,1,8,away_team,False,False,False,,Preliminary,Frederiksted,,2014
+6511,212,8,1,8,away_team,False,False,False,,Preliminary,Frederiksted,,2014
 6512,50,91,2,4,away_team,False,False,False,,Preliminary,Willemstad,,2014
 6513,170,84,2,1,home_team,False,False,False,,Preliminary,Kingstown,,2014
 6514,59,66,1,2,away_team,False,False,False,,Preliminary,San Cristóbal,,2014
 6515,38,193,0,1,away_team,False,False,False,,Preliminary,Georgetown,,2014
-6516,19,90,0,2,away_team,False,False,False,,Preliminary,Bridgetown,,2014
+6516,19,87,0,2,away_team,False,False,False,,Preliminary,Bridgetown,,2014
 6517,24,206,2,1,home_team,False,False,False,,Preliminary,Prospect,,2014
 6518,58,154,0,5,away_team,False,False,False,,Preliminary,Roseau,,2014
 6519,169,36,0,7,away_team,False,False,False,,Preliminary,Gros Islet,,2014
@@ -6522,7 +6522,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6521,170,86,0,3,away_team,False,False,False,,Preliminary,Kingstown,,2014
 6522,22,84,1,4,away_team,False,False,False,,Preliminary,Belmopan,,2014
 6523,212,91,0,7,away_team,False,False,False,,Preliminary,Frederiksted,,2014
-6524,50,9,0,1,away_team,False,False,False,,Preliminary,Willemstad,,2014
+6524,50,8,0,1,away_team,False,False,False,,Preliminary,Willemstad,,2014
 6525,64,221,2,0,home_team,False,False,False,,Preliminary,Quito,,2014
 6526,218,25,4,2,home_team,False,False,False,,Preliminary,Montevideo,,2014
 6527,10,41,4,1,home_team,False,False,False,,Preliminary,Buenos Aires,,2014
@@ -6540,13 +6540,13 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6539,193,59,1,3,away_team,False,False,False,,Preliminary,Paramaribo,,2014
 6540,66,38,4,0,home_team,False,False,False,,Preliminary,San Salvador,,2014
 6541,206,19,4,0,home_team,False,False,False,,Preliminary,Port of Spain,,2014
-6542,24,90,1,1,draw,False,False,False,,Preliminary,Prospect,,2014
+6542,24,87,1,1,draw,False,False,False,,Preliminary,Prospect,,2014
 6543,154,144,5,1,home_team,False,False,False,,Preliminary,Panamá,,2014
 6544,36,161,0,0,draw,False,False,False,,Preliminary,Toronto,,2014
 6545,168,169,1,1,draw,False,False,False,,Preliminary,Basseterre,,2014
 6546,86,22,3,1,home_team,False,False,False,,Preliminary,Guatemala,,2014
 6547,91,50,2,2,draw,False,False,False,,Preliminary,Port-au-Prince,,2014
-6548,9,212,10,0,home_team,False,False,False,,Preliminary,St Johns,,2014
+6548,8,212,10,0,home_team,False,False,False,,Preliminary,St Johns,,2014
 6549,25,43,1,2,away_team,False,False,False,,Preliminary,La Paz,,2014
 6550,156,218,1,1,draw,False,False,False,,Preliminary,Asunción,,2014
 6551,41,157,4,2,home_team,False,False,False,,Preliminary,Santiago,,2014
@@ -6575,14 +6575,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6574,59,38,4,0,home_team,False,False,False,,Preliminary,San Cristóbal,,2014
 6575,193,66,1,3,away_team,False,False,False,,Preliminary,Paramaribo,,2014
 6576,24,19,2,1,home_team,False,False,False,,Preliminary,Prospect,,2014
-6577,90,206,2,1,home_team,False,False,False,,Preliminary,Georgetown,,2014
+6577,87,206,2,1,home_team,False,False,False,,Preliminary,Georgetown,,2014
 6578,144,58,1,0,home_team,False,False,False,,Preliminary,Managua,,2014
 6579,168,36,0,0,draw,False,False,False,,Preliminary,Basseterre,,2014
 6580,169,161,0,4,away_team,False,False,False,,Preliminary,Bayamón,,2014
 6581,22,170,1,1,draw,False,False,False,,Preliminary,Belmopan,,2014
 6582,86,84,3,0,home_team,False,False,False,,Preliminary,Guatemala,,2014
 6583,212,50,0,3,away_team,False,False,False,,Preliminary,Frederiksted,,2014
-6584,9,91,1,0,home_team,False,False,False,,Preliminary,St Johns,,2014
+6584,8,91,1,0,home_team,False,False,False,,Preliminary,St Johns,,2014
 6585,10,25,1,1,draw,False,False,False,,Preliminary,Buenos Aires,,2014
 6586,43,221,1,1,draw,False,False,False,,Preliminary,Barranquilla,,2014
 6587,218,41,4,0,home_team,False,False,False,,Preliminary,Montevideo,,2014
@@ -6612,12 +6612,12 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6611,162,17,0,0,draw,False,False,False,,Preliminary,Doha,,2014
 6612,97,98,1,4,away_team,False,False,False,,Preliminary,Jakarta,,2014
 6613,66,193,4,0,home_team,False,False,False,,Preliminary,San Salvador,,2014
-6614,206,90,2,0,home_team,False,False,False,,Preliminary,Port of Spain,,2014
+6614,206,87,2,0,home_team,False,False,False,,Preliminary,Port of Spain,,2014
 6615,154,58,3,0,home_team,False,False,False,,Preliminary,Panamá,,2014
 6616,36,168,4,0,home_team,False,False,False,,Preliminary,Toronto,,2014
 6617,170,22,0,2,away_team,False,False,False,,Preliminary,Kingstown,,2014
 6618,84,86,1,4,away_team,False,False,False,,Preliminary,St Georges,,2014
-6619,91,9,2,1,home_team,False,False,False,,Preliminary,Port-au-Prince,,2014
+6619,91,8,2,1,home_team,False,False,False,,Preliminary,Port-au-Prince,,2014
 6620,50,212,6,1,home_team,False,False,False,,Preliminary,Willemstad,,2014
 6621,43,10,1,2,away_team,False,False,False,,Preliminary,Barranquilla,,2014
 6622,64,157,2,0,home_team,False,False,False,,Preliminary,Quito,,2014
@@ -6680,9 +6680,9 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6679,142,171,9,0,home_team,False,False,False,,Preliminary,Honiara,,2014
 6680,155,74,1,1,draw,False,False,False,,Preliminary,Honiara,,2014
 6681,143,183,1,1,draw,False,False,False,,Preliminary,Honiara,,2014
-6682,213,9,3,1,home_team,False,False,False,,Preliminary,Tampa,,2014
+6682,213,8,3,1,home_team,False,False,False,,Preliminary,Tampa,,2014
 6683,105,86,2,1,home_team,False,False,False,,Preliminary,Kingston,,2014
-6684,131,90,3,1,home_team,False,False,False,,Preliminary,México DF,,2014
+6684,131,87,3,1,home_team,False,False,False,,Preliminary,México DF,,2014
 6685,47,66,2,2,draw,False,False,False,,Preliminary,San José,,2014
 6686,92,154,0,2,away_team,False,False,False,,Preliminary,San Pedro Sula,,2014
 6687,49,36,0,1,away_team,False,False,False,,Preliminary,La Habana,,2014
@@ -6719,9 +6719,9 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6718,54,204,2,0,home_team,False,False,False,,Preliminary,Kinshasa,,2014
 6719,116,6,0,0,draw,False,False,False,,Preliminary,Monrovia,,2014
 6720,86,213,1,1,draw,False,False,False,,Preliminary,Guatemala,,2014
-6721,9,105,0,0,draw,False,False,False,,Preliminary,St Johns,,2014
+6721,8,105,0,0,draw,False,False,False,,Preliminary,St Johns,,2014
 6722,66,131,1,2,away_team,False,False,False,,Preliminary,San Salvador,,2014
-6723,90,47,0,4,away_team,False,False,False,,Preliminary,Georgetown,,2014
+6723,87,47,0,4,away_team,False,False,False,,Preliminary,Georgetown,,2014
 6724,36,92,0,0,draw,False,False,False,,Preliminary,Toronto,,2014
 6725,154,49,1,0,home_team,False,False,False,,Preliminary,Panamá,,2014
 6726,186,114,3,0,home_team,False,False,False,,Preliminary,Goyang,,2014
@@ -6733,7 +6733,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6732,31,103,2,2,draw,False,False,False,,Preliminary,Sofija,,2014
 6733,128,11,0,1,away_team,False,False,False,,Preliminary,TaQali,,2014
 6734,108,100,1,2,away_team,False,False,False,,Preliminary,Astana,,2014
-6735,81,73,3,0,home_team,False,False,False,,Preliminary,Hannover,,2014
+6735,72,73,3,0,home_team,False,False,False,,Preliminary,Hannover,,2014
 6736,5,94,0,5,away_team,False,False,False,,Preliminary,Andorra la Vella,,2014
 6737,70,164,0,2,away_team,False,False,False,,Preliminary,Tallinn,,2014
 6738,141,208,2,0,home_team,False,False,False,,Preliminary,Amsterdam,,2014
@@ -6755,9 +6755,9 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6754,43,218,4,0,home_team,False,False,False,,Preliminary,Barranquilla,,2014
 6755,157,221,2,1,home_team,False,False,False,,Preliminary,Lima,,2014
 6756,105,213,2,1,home_team,False,False,False,,Preliminary,Kingston,,2014
-6757,86,9,3,1,home_team,False,False,False,,Preliminary,Guatemala,,2014
+6757,86,8,3,1,home_team,False,False,False,,Preliminary,Guatemala,,2014
 6758,47,131,0,2,away_team,False,False,False,,Preliminary,San José,,2014
-6759,66,90,2,2,draw,False,False,False,,Preliminary,San Salvador,,2014
+6759,66,87,2,2,draw,False,False,False,,Preliminary,San Salvador,,2014
 6760,49,92,0,3,away_team,False,False,False,,Preliminary,La Habana,,2014
 6761,36,154,1,0,home_team,False,False,False,,Preliminary,Toronto,,2014
 6762,142,143,0,2,away_team,False,False,False,,Preliminary,Nouméa,,2014
@@ -6769,7 +6769,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6768,176,223,6,1,home_team,False,False,False,,Preliminary,Novi Sad,,2014
 6769,31,11,1,0,home_team,False,False,False,,Preliminary,Sofija,,2014
 6770,103,128,2,0,home_team,False,False,False,,Preliminary,Modena,,2014
-6771,14,81,1,2,away_team,False,False,False,,Preliminary,Wien,,2014
+6771,14,72,1,2,away_team,False,False,False,,Preliminary,Wien,,2014
 6772,195,108,2,0,home_team,False,False,False,,Preliminary,Malmö,,2014
 6773,94,141,1,4,away_team,False,False,False,,Preliminary,Budapest,,2014
 6774,164,5,4,0,home_team,False,False,False,,Preliminary,Bucureşti,,2014
@@ -6793,9 +6793,9 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6792,218,64,1,1,draw,False,False,False,,Preliminary,Montevideo,,2014
 6793,41,43,1,3,away_team,False,False,False,,Preliminary,Santiago,,2014
 6794,213,105,1,0,home_team,False,False,False,,Preliminary,Columbus,,2014
-6795,9,86,0,1,away_team,False,False,False,,Preliminary,St Johns,,2014
+6795,8,86,0,1,away_team,False,False,False,,Preliminary,St Johns,,2014
 6796,131,47,1,0,home_team,False,False,False,,Preliminary,México DF,,2014
-6797,90,66,2,3,away_team,False,False,False,,Preliminary,Georgetown,,2014
+6797,87,66,2,3,away_team,False,False,False,,Preliminary,Georgetown,,2014
 6798,92,49,1,0,home_team,False,False,False,,Preliminary,San Pedro Sula,,2014
 6799,154,36,2,0,home_team,False,False,False,,Preliminary,Panamá,,2014
 6800,114,98,1,0,home_team,False,False,False,,Preliminary,Beirut,,2014
@@ -6812,7 +6812,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6811,52,128,3,1,home_team,False,False,False,,Preliminary,Plzeň,,2014
 6812,108,14,0,0,draw,False,False,False,,Preliminary,Astana,,2014
 6813,73,195,1,2,away_team,False,False,False,,Preliminary,Tórshavn,,2014
-6814,100,81,1,6,away_team,False,False,False,,Preliminary,Dublin,,2014
+6814,100,72,1,6,away_team,False,False,False,,Preliminary,Dublin,,2014
 6815,70,94,0,1,away_team,False,False,False,,Preliminary,Tallinn,,2014
 6816,141,5,3,0,home_team,False,False,False,,Preliminary,Rotterdam,,2014
 6817,208,164,0,1,away_team,False,False,False,,Preliminary,İstanbul,,2014
@@ -6832,10 +6832,10 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6831,10,218,3,0,home_team,False,False,False,,Preliminary,Mendoza,,2014
 6832,64,41,3,1,home_team,False,False,False,,Preliminary,Quito,,2014
 6833,25,157,1,1,draw,False,False,False,,Preliminary,La Paz,,2014
-6834,9,213,1,2,away_team,False,False,False,,Preliminary,St Johns,,2014
+6834,8,213,1,2,away_team,False,False,False,,Preliminary,St Johns,,2014
 6835,86,105,2,1,home_team,False,False,False,,Preliminary,Guatemala,,2014
 6836,66,47,0,1,away_team,False,False,False,,Preliminary,San Salvador,,2014
-6837,90,131,0,5,away_team,False,False,False,,Preliminary,Houston,,2014
+6837,87,131,0,5,away_team,False,False,False,,Preliminary,Houston,,2014
 6838,36,49,3,0,home_team,False,False,False,,Preliminary,Toronto,,2014
 6839,154,92,0,0,draw,False,False,False,,Preliminary,Panamá,,2014
 6840,183,142,2,6,away_team,False,False,False,,Preliminary,Honiara,,2014
@@ -6846,7 +6846,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6845,52,31,0,0,draw,False,False,False,,Preliminary,Praha,,2014
 6846,103,56,3,1,home_team,False,False,False,,Preliminary,Milano,,2014
 6847,14,108,4,0,home_team,False,False,False,,Preliminary,Wien,,2014
-6848,81,195,4,4,draw,False,False,False,,Preliminary,Berlin,,2014
+6848,72,195,4,4,draw,False,False,False,,Preliminary,Berlin,,2014
 6849,73,100,1,4,away_team,False,False,False,,Preliminary,Tórshavn,,2014
 6850,5,70,0,1,away_team,False,False,False,,Preliminary,Andorra la Vella,,2014
 6851,94,208,3,1,home_team,False,False,False,,Preliminary,Budapest,,2014
@@ -6869,8 +6869,8 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6868,41,10,1,2,away_team,False,False,False,,Preliminary,Santiago,,2014
 6869,156,157,1,0,home_team,False,False,False,,Preliminary,Asunción,,2014
 6870,213,86,3,1,home_team,False,False,False,,Preliminary,Kansas City,,2014
-6871,105,9,4,1,home_team,False,False,False,,Preliminary,Kingston,,2014
-6872,47,90,7,0,home_team,False,False,False,,Preliminary,San José,,2014
+6871,105,8,4,1,home_team,False,False,False,,Preliminary,Kingston,,2014
+6872,47,87,7,0,home_team,False,False,False,,Preliminary,San José,,2014
 6873,131,66,2,0,home_team,False,False,False,,Preliminary,Torreón,,2014
 6874,92,36,8,1,home_team,False,False,False,,Preliminary,San Pedro Sula,,2014
 6875,49,154,1,1,draw,False,False,False,,Preliminary,La Habana,,2014
@@ -6895,7 +6895,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6894,174,223,1,2,away_team,False,False,False,,Preliminary,Glasgow,,2014
 6895,31,128,6,0,home_team,False,False,False,,Preliminary,Sofija,,2014
 6896,52,56,0,3,away_team,False,False,False,,Preliminary,Olomouc,,2014
-6897,108,81,0,3,away_team,False,False,False,,Preliminary,Astana,,2014
+6897,108,72,0,3,away_team,False,False,False,,Preliminary,Astana,,2014
 6898,14,73,6,0,home_team,False,False,False,,Preliminary,Wien,,2014
 6899,195,100,0,0,draw,False,False,False,,Preliminary,Stockholm,,2014
 6900,5,208,0,2,away_team,False,False,False,,Preliminary,Andorra la Vella,,2014
@@ -6947,7 +6947,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 6946,11,52,0,3,away_team,False,False,False,,Preliminary,Erevan,,2014
 6947,56,31,1,1,draw,False,False,False,,Preliminary,København,,2014
 6948,128,103,0,2,away_team,False,False,False,,Preliminary,TaQali,,2014
-6949,81,108,4,1,home_team,False,False,False,,Preliminary,Nürnberg,,2014
+6949,72,108,4,1,home_team,False,False,False,,Preliminary,Nürnberg,,2014
 6950,100,14,2,2,draw,False,False,False,,Preliminary,Dublin,,2014
 6951,70,5,2,0,home_team,False,False,False,,Preliminary,Tallinn,,2014
 6952,141,164,4,0,home_team,False,False,False,,Preliminary,Amsterdam,,2014
@@ -7070,7 +7070,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7069,103,31,1,0,home_team,False,False,False,,Preliminary,Palermo,,2014
 7070,128,56,1,2,away_team,False,False,False,,Preliminary,TaQali,,2014
 7071,108,73,2,1,home_team,False,False,False,,Preliminary,Astana,,2014
-7072,81,14,3,0,home_team,False,False,False,,Preliminary,München,,2014
+7072,72,14,3,0,home_team,False,False,False,,Preliminary,München,,2014
 7073,100,195,1,2,away_team,False,False,False,,Preliminary,Dublin,,2014
 7074,70,141,2,2,draw,False,False,False,,Preliminary,Tallinn,,2014
 7075,164,94,3,0,home_team,False,False,False,,Preliminary,Bucureşti,,2014
@@ -7122,7 +7122,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7121,128,31,1,2,away_team,False,False,False,,Preliminary,TaQali,,2014
 7122,108,195,0,1,away_team,False,False,False,,Preliminary,Astana,,2014
 7123,14,100,1,0,home_team,False,False,False,,Preliminary,Wien,,2014
-7124,73,81,0,3,away_team,False,False,False,,Preliminary,Tórshavn,,2014
+7124,73,72,0,3,away_team,False,False,False,,Preliminary,Tórshavn,,2014
 7125,5,141,0,2,away_team,False,False,False,,Preliminary,Andorra la Vella,,2014
 7126,94,70,5,1,home_team,False,False,False,,Preliminary,Budapest,,2014
 7127,164,208,0,2,away_team,False,False,False,,Preliminary,Bucureşti,,2014
@@ -7153,7 +7153,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7152,11,31,2,1,home_team,False,False,False,,Preliminary,Erevan,,2014
 7153,56,103,2,2,draw,False,False,False,,Preliminary,København,,2014
 7154,128,52,1,4,away_team,False,False,False,,Preliminary,TaQali,,2014
-7155,81,100,3,0,home_team,False,False,False,,Preliminary,Köln,,2014
+7155,72,100,3,0,home_team,False,False,False,,Preliminary,Köln,,2014
 7156,195,14,2,1,home_team,False,False,False,,Preliminary,Stockholm,,2014
 7157,73,108,1,1,draw,False,False,False,,Preliminary,Tórshavn,,2014
 7158,5,164,0,4,away_team,False,False,False,,Preliminary,Andorra la Vella,,2014
@@ -7189,7 +7189,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7188,31,52,0,1,away_team,False,False,False,,Preliminary,Sofija,,2014
 7189,56,128,6,0,home_team,False,False,False,,Preliminary,København,,2014
 7190,103,11,2,2,draw,False,False,False,,Preliminary,Napoli,,2014
-7191,195,81,3,5,away_team,False,False,False,,Preliminary,Stockholm,,2014
+7191,195,72,3,5,away_team,False,False,False,,Preliminary,Stockholm,,2014
 7192,73,14,0,3,away_team,False,False,False,,Preliminary,Tórshavn,,2014
 7193,100,108,3,1,home_team,False,False,False,,Preliminary,Dublin,,2014
 7194,94,5,2,0,home_team,False,False,False,,Preliminary,Budapest,,2014
@@ -7245,7 +7245,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7244,196,64,2,1,home_team,False,False,False,,Group Stage,Brasilia,,2014
 7245,76,92,3,0,home_team,False,False,False,,Group Stage,Porto Alegre,,2014
 7246,10,26,2,1,home_team,False,False,False,,Group Stage,Rio de Janeiro,,2014
-7247,81,160,4,0,home_team,False,False,False,,Group Stage,Salvador,,2014
+7247,72,160,4,0,home_team,False,False,False,,Group Stage,Salvador,,2014
 7248,98,146,0,0,draw,False,False,False,,Group Stage,Curitiba,,2014
 7249,213,82,2,1,home_team,False,False,False,,Group Stage,Natal,,2014
 7250,21,3,2,1,home_team,False,False,False,,Group Stage,Belo Horizonte,,2014
@@ -7261,7 +7261,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7260,76,196,5,2,home_team,False,False,False,,Group Stage,Salvador,,2014
 7261,64,92,2,1,home_team,False,False,False,,Group Stage,Curitiba,,2014
 7262,10,98,1,0,home_team,False,False,False,,Group Stage,Belo Horizonte,,2014
-7263,81,82,2,2,draw,False,False,False,,Group Stage,Fortaleza,,2014
+7263,72,82,2,2,draw,False,False,False,,Group Stage,Fortaleza,,2014
 7264,146,26,1,0,home_team,False,False,False,,Group Stage,Cuiaba,,2014
 7265,21,165,1,0,home_team,False,False,False,,Group Stage,Rio de Janeiro,,2014
 7266,3,186,4,2,home_team,False,False,False,,Group Stage,Porto Alegre,,2014
@@ -7278,7 +7278,7 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7277,26,98,3,1,home_team,False,False,False,,Group Stage,Salvador,,2014
 7278,196,92,3,0,home_team,False,False,False,,Group Stage,Manaus,,2014
 7279,64,76,0,0,draw,False,False,False,,Group Stage,Rio de Janeiro,,2014
-7280,81,213,1,0,home_team,False,False,False,,Group Stage,Recife,,2014
+7280,72,213,1,0,home_team,False,False,False,,Group Stage,Recife,,2014
 7281,160,82,2,1,home_team,False,False,False,,Group Stage,Brasilia,,2014
 7282,21,186,1,0,home_team,False,False,False,,Group Stage,Sao Paulo,,2014
 7283,3,165,1,1,draw,False,False,False,,Group Stage,Curitiba,,2014
@@ -7287,14 +7287,14 @@ id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,pen
 7286,141,131,2,1,home_team,False,False,False,,Round of 16,Fortaleza,,2014
 7287,47,83,1,1,draw,True,True,False,,Round of 16,Recife,,2014
 7288,76,146,2,0,home_team,False,False,False,,Round of 16,Brasilia,,2014
-7289,81,3,2,1,home_team,True,False,False,,Round of 16,Porto Alegre,,2014
+7289,72,3,2,1,home_team,True,False,False,,Round of 16,Porto Alegre,,2014
 7290,10,196,1,0,home_team,True,False,False,,Round of 16,Sao Paulo,,2014
 7291,21,213,2,1,home_team,True,False,False,,Round of 16,Salvador,,2014
-7292,81,76,1,0,home_team,False,False,False,,Quarter-finals,Rio de Janeiro,,2014
+7292,72,76,1,0,home_team,False,False,False,,Quarter-finals,Rio de Janeiro,,2014
 7293,28,43,2,1,home_team,False,False,False,,Quarter-finals,Fortaleza,,2014
 7294,10,21,1,0,home_team,False,False,False,,Quarter-finals,Brasilia,,2014
 7295,141,47,0,0,draw,True,True,False,,Quarter-finals,Salvador,,2014
-7296,81,28,7,1,home_team,False,False,False,,Semi-finals,Belo Horizonte,,2014
+7296,72,28,7,1,home_team,False,False,False,,Semi-finals,Belo Horizonte,,2014
 7297,10,141,0,0,draw,True,True,False,,Semi-finals,Sao Paulo,,2014
 7298,141,28,3,0,home_team,False,False,False,,Third Place,Brasilia,,2014
-7299,81,10,1,0,home_team,True,False,False,,Final,Rio de Janeiro,,2014
+7299,72,10,1,0,home_team,True,False,False,,Final,Rio de Janeiro,,2014

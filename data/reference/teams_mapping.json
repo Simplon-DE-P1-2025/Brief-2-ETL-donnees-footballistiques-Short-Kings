@@ -1,0 +1,2069 @@
+{
+  "Equatorial Guinea": {
+    "confederation": "CAF",
+    "aliases": [
+      "Equatorial Guinea (Guinea Ecuatorial)",
+      "Equatorial Guinea"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Tanzania": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Latvia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Latvia (Latvija)",
+      "Latvia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Myanmar": {
+    "confederation": "AFC",
+    "aliases": [
+      "Myanmar (ြမန်မာ)",
+      "Myanmar"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Chinese Taipei": {
+    "confederation": "AFC",
+    "aliases": [
+      "Taiwan (台湾)",
+      "Taiwan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Burundi": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "St. Kitts and Nevis": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Saint Kitts & Nevis"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Suriname": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Surinam (Suriname)",
+      "Surinam"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Solomon Islands": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Lesotho": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Maldives": {
+    "confederation": "AFC",
+    "aliases": [
+      "Maldives (Divehi Rājjēge)",
+      "Maldives"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Yemen": {
+    "confederation": "AFC",
+    "aliases": [
+      "Yemen (اليمن)",
+      "Yemen"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Botswana": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Ethiopia": {
+    "confederation": "CAF",
+    "aliases": [
+      "Ethiopia (ኢትዮⵒያ)",
+      "Ethiopia",
+      "Ethiopia (ኢትዮⵒ)",
+      "Ethiopia (ኢትዮጵያ)"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Kuwait": {
+    "confederation": "AFC",
+    "aliases": [
+      "Kuwait (الكويت)",
+      "Kuwait"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Nicaragua": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Afghanistan": {
+    "confederation": "AFC",
+    "aliases": [
+      "Afghanistan (افغانستان)",
+      "Afghanistan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Andorra": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Liberia": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Malaysia": {
+    "confederation": "AFC",
+    "aliases": [
+      "Malaysia (مليسيا)",
+      "Malaysia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Swaziland": {
+    "confederation": "CAF",
+    "aliases": [
+      "Swaziland (Swatini)",
+      "Swaziland"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Rwanda": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Hong Kong": {
+    "confederation": "AFC",
+    "aliases": [
+      "Hong Kong (香港)",
+      "Hong Kong"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Turkmenistan": {
+    "confederation": "AFC",
+    "aliases": [
+      "Turkmenistan (Türkmenistan)",
+      "Turkmenistan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Guinea-Bissau": {
+    "confederation": "CAF",
+    "aliases": [
+      "Guinea-Bissau (Guiné-Bissau)",
+      "Guinea-Bissau"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Comoros": {
+    "confederation": "CAF",
+    "aliases": [
+      "Comoros (جزر القمر)",
+      "Comoros"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Faroe Islands": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Faroe Islands (Føroyar)",
+      "Faroe Islands"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Zimbabwe": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Azerbaijan": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Azerbaijan (Azərbaycan)",
+      "Azerbaijan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Estonia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Estonia (Eesti)",
+      "Estonia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Thailand": {
+    "confederation": "AFC",
+    "aliases": [
+      "Thailand (ประเทศไทย)",
+      "Thailand"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Libya": {
+    "confederation": "CAF",
+    "aliases": [
+      "Libya (ليبيا)",
+      "Libya"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Niger": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Central African Republic": {
+    "confederation": "CAF",
+    "aliases": [
+      "Central African Republic (Centrafrique)",
+      "Central African Republic"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Korea DPR": {
+    "confederation": "AFC",
+    "aliases": [
+      "North Korea (조선)",
+      "North Korea"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Sierra Leone": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Guatemala": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Kosovo": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Namibia": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Tajikistan": {
+    "confederation": "AFC",
+    "aliases": [
+      "Tajikistan (Точикистон)",
+      "Tajikistan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Kazakhstan": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Kazakhstan (Қазақстан)",
+      "Kazakhstan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Malawi": {
+    "confederation": "CAF",
+    "aliases": [
+      "Malawi (Malaŵi)",
+      "Malawi"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Philippines": {
+    "confederation": "AFC",
+    "aliases": [
+      "Philippines (Pilipinas)",
+      "Philippines"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Angola": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Antigua and Barbuda": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Antigua"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Sudan": {
+    "confederation": "CAF",
+    "aliases": [
+      "Sudan (السودان)",
+      "Sudan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Togo": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Lithuania": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Lithuania (Lietuva)",
+      "Lithuania"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "New Zealand": {
+    "confederation": "OFC",
+    "aliases": [
+      "New Zealand (Aotearoa)",
+      "New Zealand"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "New Caledonia": {
+    "confederation": "OFC",
+    "aliases": [
+      "New Caledonia (Nouvelle-Calédonie)",
+      "New Caledonia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "British Virgin Islands": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Singapore": {
+    "confederation": "AFC",
+    "aliases": [
+      "Singapore (新加坡)",
+      "Singapore"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bangladesh": {
+    "confederation": "AFC",
+    "aliases": [
+      "Bangladesh (বাংলাদেশ)",
+      "Bangladesh"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "São Tomé and Príncipe": {
+    "confederation": "CAF",
+    "aliases": [
+      "São Tomé e Príncipe"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Laos": {
+    "confederation": "AFC",
+    "aliases": [
+      "Laos (ນລາວ)",
+      "Laos"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bhutan": {
+    "confederation": "AFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Mongolia": {
+    "confederation": "AFC",
+    "aliases": [
+      "Mongolia (Монгол Улс)",
+      "Mongolia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Brunei Darussalam": {
+    "confederation": "AFC",
+    "aliases": [
+      "Brunei (بروني)",
+      "Brunei"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "American Samoa": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Cayman Islands": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Samoa": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Gibraltar": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bahamas": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Somalia": {
+    "confederation": "CAF",
+    "aliases": [
+      "Somalia (Soomaaliya)",
+      "Somalia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Timor-Leste": {
+    "confederation": "AFC",
+    "aliases": [
+      "East Timor (Timor-Leste)",
+      "East Timor"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Guam": {
+    "confederation": "AFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Aruba": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Pakistan": {
+    "confederation": "AFC",
+    "aliases": [
+      "Pakistan (پاکستان)",
+      "Pakistan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Seychelles": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Tonga": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Turks and Caicos Islands": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Eritrea": {
+    "confederation": "CAF",
+    "aliases": [
+      "Eritrea (ኤርትራ / إرتريا)",
+      "Eritrea"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Sri Lanka": {
+    "confederation": "AFC",
+    "aliases": [
+      "Sri Lanka (ශ්රී ලංකාව)",
+      "Sri Lanka"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "US Virgin Islands": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Mozambique": {
+    "confederation": "CAF",
+    "aliases": [
+      "Mozambique (Moçambique)",
+      "Mozambique"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Dominica": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Gambia": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Djibouti": {
+    "confederation": "CAF",
+    "aliases": [
+      "Djibouti (جيبوتي)",
+      "Djibouti"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Macau": {
+    "confederation": "AFC",
+    "aliases": [
+      "Macao (澳门)",
+      "Macao"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Dominican Republic": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Dominican Republic (República Dominicana)",
+      "Dominican Republic"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Grenada": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Tahiti": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Barbados": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "South Sudan": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Fiji": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Vanuatu": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Papua New Guinea": {
+    "confederation": "OFC",
+    "aliases": [
+      "Papua New Guinea (Papua Niugini)",
+      "Papua New Guinea"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Guyana": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Guayana"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "St. Vincent / Grenadines": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Saint Vincent & The Grenadines"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bermuda": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Belize": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Nepal": {
+    "confederation": "AFC",
+    "aliases": [
+      "Nepal (नेपाल)",
+      "Nepal"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Mauritius": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Cambodia": {
+    "confederation": "AFC",
+    "aliases": [
+      "Cambodia (កម្ពុជា)",
+      "Cambodia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Indonesia": {
+    "confederation": "AFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "St. Lucia": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Saint Lucia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Malta": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Moldova": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Chad": {
+    "confederation": "CAF",
+    "aliases": [
+      "Chad (Tchad / تشاد)",
+      "Chad"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Puerto Rico": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Cuba": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Liechtenstein": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Montserrat": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "India": {
+    "confederation": "AFC",
+    "aliases": [
+      "India (भारत)",
+      "India"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Greece": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Greece (Ελλάδα)",
+      "Greece"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Trinidad and Tobago": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Japan": {
+    "confederation": "AFC",
+    "aliases": [
+      "Japan (日本)",
+      "Japan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Venezuela": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "IR Iran": {
+    "confederation": "AFC",
+    "aliases": [
+      "Iran (ایران)",
+      "Iran",
+      "IR Iran"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Serbia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Serbia (Србија)",
+      "Serbia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Algeria": {
+    "confederation": "CAF",
+    "aliases": [
+      "Algeria (الجزائر)",
+      "Algeria"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Turkey": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Turkey (Türkiye)",
+      "Turkey"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Slovakia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Slovakia (Slovensko)",
+      "Slovakia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Paraguay": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Morocco": {
+    "confederation": "CAF",
+    "aliases": [
+      "Morocco (المغرب)",
+      "Morocco"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Nigeria": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Tunisia": {
+    "confederation": "CAF",
+    "aliases": [
+      "Tunisia (تونس)",
+      "Tunisia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Romania": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Romania (România)",
+      "Romania"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Russia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Russia (Россия)",
+      "Russia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Hungary": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Hungary (Magyarország)",
+      "Hungary"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Australia": {
+    "confederation": "AFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Czech Republic": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Czech Republic (Česká Republika)",
+      "Czech Republic"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Republic of Ireland": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Ireland (Éire)",
+      "Ireland"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Norway": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Norway (Norge)",
+      "Norway"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Northern Ireland": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Northern Ireland (Ulster)",
+      "Northern Ireland"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Iceland": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Iceland (Ísland)",
+      "Iceland"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Jamaica": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Scotland": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Korea Republic": {
+    "confederation": "AFC",
+    "aliases": [
+      "South Korea (한국)",
+      "South Korea",
+      "Korea Republic",
+      "KOREA REPUBLIC"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Peru": {
+    "confederation": "CONMEBOL",
+    "aliases": [
+      "Peru (Perú)",
+      "Peru"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Ukraine": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Ukraine (Україна)",
+      "Ukraine"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Austria": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Austria (Österreich)",
+      "Austria"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Anguilla": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Belgium": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Belgium (België)",
+      "Belgium"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "France": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Brazil": {
+    "confederation": "CONMEBOL",
+    "aliases": [
+      "Brazil (Brasil)",
+      "Brazil"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "England": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Portugal": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Spain": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Spain (España)",
+      "Spain"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Argentina": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Uruguay": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Mexico": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Mexico (México)",
+      "Mexico"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Italy": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Italy (Italia)",
+      "Italy"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Croatia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Croatia (Hrvatska)",
+      "Croatia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Denmark": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Denmark (Danmark)",
+      "Denmark"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Germany": {
+    "confederation": "UEFA",
+    "aliases": [
+      "FRG (BRD / Westdeutschland)",
+      "FRG",
+      "West Germany",
+      "Allemagne de l'Ouest",
+      "BRD",
+      "Westdeutschland",
+      "Germany (Deutschland)",
+      "Germany"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Netherlands": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Netherlands (Nederland)",
+      "Netherlands"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Colombia": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Switzerland": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Switzerland (Schweiz / Suisse)",
+      "Switzerland"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Chile": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Wales": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Wales (Cymru)",
+      "Wales"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Poland": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Poland (Polska)",
+      "Poland"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Senegal": {
+    "confederation": "CAF",
+    "aliases": [
+      "Senegal (Sénégal)",
+      "Senegal"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Sweden": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Sweden (Sverige)",
+      "Sweden"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "USA": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "United states"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Egypt": {
+    "confederation": "CAF",
+    "aliases": [
+      "Egypt (مصر)",
+      "Egypt"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Kenya": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Cameroon": {
+    "confederation": "CAF",
+    "aliases": [
+      "Cameroon (Cameroun)",
+      "Cameroon"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Ghana": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Cabo Verde": {
+    "confederation": "CAF",
+    "aliases": [
+      "Cape Verde (Cabo Verde)",
+      "Cape Verde"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Oman": {
+    "confederation": "AFC",
+    "aliases": [
+      "Oman (عمان)",
+      "Oman"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Benin": {
+    "confederation": "CAF",
+    "aliases": [
+      "Benin (Bénin)",
+      "Benin"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Haiti": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Haiti (Haïti)",
+      "Haiti"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Uzbekistan": {
+    "confederation": "AFC",
+    "aliases": [
+      "Uzbekistan (Ўзбекистон)",
+      "Uzbekistan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Gabon": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Israel": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Israel (ישראל)",
+      "Israel"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Belarus": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Belarus (Беларусь)",
+      "Belarus"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Georgia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Georgia (საქართველო)",
+      "Georgia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Zambia": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bolivia": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Congo": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Vietnam": {
+    "confederation": "AFC",
+    "aliases": [
+      "Vietnam (Việt Nam)",
+      "Vietnam"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Madagascar": {
+    "confederation": "CAF",
+    "aliases": [
+      "Madagascar (Madagasikara)",
+      "Madagascar"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Jordan": {
+    "confederation": "AFC",
+    "aliases": [
+      "Jordan (الأردن)",
+      "Jordan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Kyrgyz Republic": {
+    "confederation": "AFC",
+    "aliases": [
+      "Kyrgyzstan (Кыргызстан)",
+      "Kyrgyzstan"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bahrain": {
+    "confederation": "AFC",
+    "aliases": [
+      "Bahrain (البحرين)",
+      "Bahrain"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Luxembourg": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Luxembourg (Lëtzebuerg)",
+      "Luxembourg"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Armenia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Armenia (Հайастан)",
+      "Armenia",
+      "Armenia (Հایաստан)"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Cyprus": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Cyprus (Κύπρος)",
+      "Cyprus"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Mauritania": {
+    "confederation": "CAF",
+    "aliases": [
+      "Mauritania (موريتانيا)",
+      "Mauritania"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Palestine": {
+    "confederation": "AFC",
+    "aliases": [
+      "Palestine (فلسطين)",
+      "Palestine"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Lebanon": {
+    "confederation": "AFC",
+    "aliases": [
+      "Lebanon (لبنان)",
+      "Lebanon"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Uganda": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Panama": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Panama (Panamá)",
+      "Panama"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Syria": {
+    "confederation": "AFC",
+    "aliases": [
+      "Syria (سوريا)",
+      "Syria"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Finland": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Finland (Suomi)",
+      "Finland"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bosnia and Herzegovina": {
+    "confederation": "UEFA",
+    "aliases": [
+      "rn\">Bosnia and Herzegovina",
+      "\"rn\"\">Bosnia and Herzegovina\"",
+      "Bosnia-Herzegovina (Bosna i Hercegovina)",
+      "Bosnia-Herzegovina"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Ecuador": {
+    "confederation": "CONMEBOL",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Mali": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Burkina Faso": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Qatar": {
+    "confederation": "AFC",
+    "aliases": [
+      "Qatar (قطر)",
+      "Qatar"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Congo DR": {
+    "confederation": "CAF",
+    "aliases": [
+      "D.R. Congo (R.D. Congo)",
+      "D.R. Congo"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Côte d'Ivoire": {
+    "confederation": "CAF",
+    "aliases": [
+      "C�te d'Ivoire",
+      "Cï¿½te d'Ivoire",
+      "Ivory Coast (Côte d'Ivoire)",
+      "Ivory Coast",
+      "Cote d'Ivoire"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Slovenia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Slovenia (Slovenija)",
+      "Slovenia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Montenegro": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Montenegro (Црна Гора)",
+      "Montenegro"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Honduras": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "North Macedonia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Macedonia (Македонија)",
+      "Macedonia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Albania": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Albania (Shqipëri)",
+      "Albania"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Saudi Arabia": {
+    "confederation": "AFC",
+    "aliases": [
+      "Saudi Arabia (العربية السعودية)",
+      "Saudi Arabia"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Bulgaria": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Bulgaria (България)",
+      "Bulgaria"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Iraq": {
+    "confederation": "AFC",
+    "aliases": [
+      "Iraq (العراق)",
+      "Iraq"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "El Salvador": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "South Africa": {
+    "confederation": "CAF",
+    "aliases": [
+      "South Africa (Suid-Afrika)",
+      "South Africa"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Canada": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Guinea": {
+    "confederation": "CAF",
+    "aliases": [
+      "Guinea (Guinée)",
+      "Guinea"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "United Arab Emirates": {
+    "confederation": "AFC",
+    "aliases": [
+      "United Arab Emirates (الإمارات العربية المتحدة)",
+      "United Arab Emirates"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "China PR": {
+    "confederation": "AFC",
+    "aliases": [
+      "China (中国)",
+      "China"
+    ],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Curaçao": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Costa Rica": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "San Marino": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Soviet Union": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Soviet Union (СССР)",
+      "Soviet Union"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Russia",
+    "dissolved_year": 1991
+  },
+  "Yugoslavia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Yugoslavia (Југославија)",
+      "Yugoslavia"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Serbia",
+    "dissolved_year": 2003
+  },
+  "Czechoslovakia": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Czechoslovakia (Československo)",
+      "Czechoslovakia"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Czech Republic",
+    "dissolved_year": 1993
+  },
+  "Serbia-Montenegro": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Serbia-Montenegro (Србија и Црна Гора)",
+      "Serbia-Montenegro",
+      "Serbia and Montenegro"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Serbia",
+    "dissolved_year": 2006
+  },
+  "GDR": {
+    "confederation": "UEFA",
+    "aliases": [
+      "GDR (DDR / Ostdeutschland)",
+      "GDR",
+      "East Germany",
+      "Allemagne de l'Est",
+      "DDR",
+      "Ostdeutschland"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Germany",
+    "dissolved_year": 1990
+  },
+  "Saarland": {
+    "confederation": "UEFA",
+    "aliases": [],
+    "is_historical": true,
+    "fifa_successor": "Germany",
+    "dissolved_year": 1956
+  },
+  "Irish Free State": {
+    "confederation": "UEFA",
+    "aliases": [
+      "Irish Free State (Saorstát Éireann)",
+      "Irish Free State"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Republic of Ireland",
+    "dissolved_year": 1936
+  },
+  "Zaire": {
+    "confederation": "CAF",
+    "aliases": [
+      "Zaire (Zaïre)",
+      "Zaire"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Congo DR",
+    "dissolved_year": 1997
+  },
+  "Dahomey": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": true,
+    "fifa_successor": "Benin",
+    "dissolved_year": 1975
+  },
+  "Upper Volta": {
+    "confederation": "CAF",
+    "aliases": [
+      "Upper Volta (Haute-Volta)",
+      "Upper Volta"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Burkina Faso",
+    "dissolved_year": 1984
+  },
+  "Rhodesia": {
+    "confederation": "CAF",
+    "aliases": [],
+    "is_historical": true,
+    "fifa_successor": "Zimbabwe",
+    "dissolved_year": 1980
+  },
+  "Dutch East Indies": {
+    "confederation": "AFC",
+    "aliases": [
+      "Dutch East Indies (Nederlands-Indië)",
+      "Dutch East Indies"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Indonesia",
+    "dissolved_year": 1945
+  },
+  "North Yemen": {
+    "confederation": "AFC",
+    "aliases": [
+      "North Yemen (اليمن)",
+      "North Yemen"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Yemen",
+    "dissolved_year": 1990
+  },
+  "South Yemen": {
+    "confederation": "AFC",
+    "aliases": [
+      "South Yemen (اليمن)",
+      "South Yemen"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Yemen",
+    "dissolved_year": 1990
+  },
+  "South Vietnam": {
+    "confederation": "AFC",
+    "aliases": [
+      "South Vietnam (Việt Nam)",
+      "South Vietnam"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Vietnam",
+    "dissolved_year": 1976
+  },
+  "Dutch Guyana": {
+    "confederation": "CONMEBOL",
+    "aliases": [
+      "Dutch Guyana (Nederlands Guyana)",
+      "Dutch Guyana"
+    ],
+    "is_historical": true,
+    "fifa_successor": "Suriname",
+    "dissolved_year": 1975
+  },
+  "Dutch Antilles": {
+    "confederation": "CONCACAF",
+    "aliases": [
+      "Dutch Antilles (Nederlandse Antillen)",
+      "Dutch Antilles"
+    ],
+    "is_historical": true,
+    "fifa_successor": null,
+    "dissolved_year": 2010
+  },
+  "Western Samoa": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": true,
+    "fifa_successor": "Samoa",
+    "dissolved_year": 1997
+  },
+  "Cook Islands": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Tuvalu": {
+    "confederation": "OFC",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  },
+  "Turks and Caicos": {
+    "confederation": "CONCACAF",
+    "aliases": [],
+    "is_historical": false,
+    "fifa_successor": null,
+    "dissolved_year": null
+  }
+}
