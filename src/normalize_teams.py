@@ -1,32 +1,36 @@
+"""
+Normalisation des équipes pour le projet World Cup ETL.
+
+Ce module lit teams.csv, normalise les noms des équipes selon le référentiel FIFA,
+et enrichit avec les confédérations et aliases.
+"""
+
 import json
 import pandas as pd
 from pathlib import Path
 
+try:
+    from .teams_reference import (
+        normalize_team_name,
+        get_confederation,
+        get_aliases,
+        build_alias_to_fifa_mapping,
+        CONFEDERATIONS,
+    )
+except ImportError:
+    from teams_reference import (
+        normalize_team_name,
+        get_confederation,
+        get_aliases,
+        build_alias_to_fifa_mapping,
+        CONFEDERATIONS,
+    )
+
 # Chemins des fichiers
 BASE_DIR = Path(__file__).parent.parent
 TEAMS_CSV = BASE_DIR / "data/processed/teams.csv"
-TEAMS_MAPPING_JSON = BASE_DIR / "data/reference/teams_mapping.json"
 OUTPUT_CSV = BASE_DIR / "data/processed/teams_traitees.csv"
 MATCHES_CSV = BASE_DIR / "data/processed/matches.csv"
-
-
-def load_teams_mapping():
-    """Charge le fichier teams_mapping.json."""
-    with open(TEAMS_MAPPING_JSON, 'r', encoding='utf-8') as f:
-        return json.load(f)
-
-
-def build_mapping(teams_ref):
-    """
-    Construit un dictionnaire de mapping : alias -> nom FIFA officiel.
-    Simple lookup car les variantes sont déjà dans le JSON.
-    """
-    alias_to_fifa = {}
-    for fifa_name, data in teams_ref.items():
-        alias_to_fifa[fifa_name] = fifa_name
-        for alias in data.get('aliases', []):
-            alias_to_fifa[alias] = fifa_name
-    return alias_to_fifa
 
 
 def normalize_teams(update_matches: bool = True):
@@ -39,9 +43,10 @@ def normalize_teams(update_matches: bool = True):
     Returns:
         Tuple (DataFrame résultat, liste des équipes non matchées)
     """
+    # Construire le mapping alias -> nom FIFA
+    alias_to_fifa = build_alias_to_fifa_mapping()
+
     # Charger les données
-    teams_ref = load_teams_mapping()
-    alias_to_fifa = build_mapping(teams_ref)
     df = pd.read_csv(TEAMS_CSV)
 
     # Listes pour stocker les résultats
@@ -57,17 +62,15 @@ def normalize_teams(update_matches: bool = True):
         if original_name in alias_to_fifa:
             fifa_name = alias_to_fifa[original_name]
         else:
-            # Pas de correspondance trouvée
-            fifa_name = original_name
-            unmatched.append(original_name)
+            # Essayer la normalisation avec gestion des cas spéciaux
+            fifa_name = normalize_team_name(original_name)
+            if fifa_name is None or fifa_name not in CONFEDERATIONS:
+                fifa_name = original_name
+                unmatched.append(original_name)
 
-        # Récupérer les données du JSON
-        if fifa_name in teams_ref:
-            confederation = teams_ref[fifa_name].get('confederation', '')
-            aliases = teams_ref[fifa_name].get('aliases', [])
-        else:
-            confederation = ''
-            aliases = []
+        # Récupérer les données
+        confederation = get_confederation(fifa_name) or ''
+        aliases = get_aliases(fifa_name)
 
         normalized_names.append(fifa_name)
         confederations.append(confederation)
@@ -160,7 +163,7 @@ def normalize_teams(update_matches: bool = True):
 
     if unmatched:
         print(f"\nÉquipes non matchées ({len(unmatched)}) :")
-        for name in sorted(unmatched):
+        for name in sorted(set(unmatched)):
             print(f"  - {name}")
     else:
         print("\nToutes les équipes ont été matchées !")
@@ -169,7 +172,7 @@ def normalize_teams(update_matches: bool = True):
     original_names = df['nom_standard'].tolist()
     print("\nExemples de normalisation :")
     count = 0
-    for i, orig in enumerate(original_names):
+    for orig in original_names:
         norm = alias_to_fifa.get(orig, orig)
         if orig != norm and count < 10:
             print(f"  {orig} → {norm}")
