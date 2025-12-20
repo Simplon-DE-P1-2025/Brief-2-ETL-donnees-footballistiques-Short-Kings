@@ -1,63 +1,78 @@
-# ⚽ Projet ETL Données Footballistiques - Short Kings
+# Projet ETL Donnees Footballistiques - Short Kings
 
-Bienvenue sur le projet **Short Kings**, une pipeline ETL (Extract, Transform, Load) dédiée à l'analyse des données de la Coupe du Monde de la FIFA de 1930 à 2022. Ce projet a pour but de consolider, nettoyer et structurer des données historiques et récentes provenant de diverses sources (CSV, JSON, APIs) pour permettre des analyses statistiques approfondies.
+Pipeline ETL (Extract, Transform, Load) pour l'analyse des donnees de la Coupe du Monde FIFA de 1930 a 2022.
 
-## 📝 Description
+## Description
 
-Ce projet permet de traiter les données de matchs, d'équipes et de résultats de toutes les Coupes du Monde. Il est conçu de manière modulaire avec des notebooks Jupyter pour chaque étape ou édition du tournoi, et des scripts Python pour les fonctions utilitaires partagées.
+Ce projet consolide, nettoie et structure les donnees historiques de toutes les Coupes du Monde. Il est concu de maniere modulaire avec des notebooks Jupyter numerotes pour chaque etape du pipeline, et des modules Python pour les fonctions utilitaires partagees.
 
 **Objectifs principaux :**
-*   **Extraction** : Récupération des données depuis des fichiers plats (CSV) et des APIs (JSON).
-*   **Transformation** : Normalisation des noms de pays, gestion des formats de dates, nettoyage des scores et calcul de statistiques.
-*   **Chargement** : Export des données propres pour analyse ou insertion en base de données.
+- **Extraction** : Recuperation des donnees depuis CSV, JSON et APIs (FIFA, Kaggle)
+- **Transformation** : Normalisation des noms d'equipes, gestion des formats de dates, nettoyage des scores
+- **Chargement** : Insertion dans une base PostgreSQL avec partitionnement par edition
+- **Analyse** : KPIs, requetes SQL avancees, correlations statistiques
 
-## 📂 Architecture du Projet
-
-La structure du projet est organisée comme suit :
+## Architecture du Projet
 
 ```
 Brief-2-ETL-donnees-footballistiques-Short-Kings/
 │
-├── notebooks/                       # Espace de travail Jupyter
-│   ├── extract_matches19302010...   # Extraction des données historiques (1930-2010)
-│   ├── nettoyage_matches19302010... # Nettoyage des données historiques
-│   ├── extract-2014-romain.ipynb    # Extraction spécifique pour 2014
-│   ├── 01-extract-json-2018.ipynb   # Extraction des données JSON 2018
-│   ├── 02-transform-2018.ipynb      # Transformation des données 2018
-│   ├── WorldCup2022.ipynb           # Pipeline complète pour 2022
-│   ├── mapping-teams-romain.ipynb   # Normalisation des noms d'équipes
-│   └── bdd-setup-romain.ipynb       # Configuration de la Base de Données
+├── notebooks/                          # Pipeline ETL (executer dans l'ordre)
+│   ├── 00-database-setup.ipynb         # Infrastructure PostgreSQL
+│   ├── 01a-validate-2014.ipynb         # Validation qualite 2014
+│   ├── 01b-clean-1930-2014.ipynb       # Nettoyage donnees historiques
+│   ├── 02a-extract-json-2018.ipynb     # Extraction JSON 2018
+│   ├── 02b-transform-2018.ipynb        # Transformation 2018
+│   ├── 03-extract-2022.ipynb           # Extraction Kaggle 2022
+│   ├── 04-concat-and-index.ipynb       # Concatenation et indexation
+│   ├── 05-create-json-mapping.ipynb    # Referentiel equipes
+│   ├── 05b-map-team-ids.ipynb          # Attribution IDs numeriques
+│   ├── 06-normalize-teams.ipynb        # Normalisation noms equipes
+│   ├── 07-load-database.ipynb          # Chargement PostgreSQL
+│   ├── 08-data-quality-kpi.ipynb       # Qualite donnees et KPIs
+│   ├── 09-sql-analytics.ipynb          # Requetes SQL avancees
+│   └── 10-group-knockout-correlation.ipynb  # Analyse predictive
 │
-├── data/                            # Stockage des données
-│   ├── matches_wc2018_en.json       # Source JSON brute (2018)
-│   ├── matches_wc2022_en.json       # Source JSON brute (2022)
-│   ├── raw/                         # Données brutes historiques (CSV)
-│   │   ├── matches_19302010.csv
-│   │   ├── WorldCupMatches2014.csv
-│   │   └── ...
-│   └── processed/                   # Données nettoyées et finales
-│       ├── matches_2018_clean.csv
-│       ├── df_matches_final.csv     # Dataset consolidé final
-│       └── teams_ref_2018.csv
+├── data/
+│   ├── raw/                            # Donnees sources brutes
+│   │   ├── matches_19302010 (1).csv    # Historique 1930-2010
+│   │   ├── WorldCupMatches2014 (1).csv # WC 2014
+│   │   ├── data_2018.json              # WC 2018 (FIFA API)
+│   │   └── matches_wc2022_en.json      # WC 2022 (Kaggle)
+│   ├── staging/                        # Donnees intermediaires
+│   │   └── matches_2018_raw.csv
+│   ├── processed/                      # Donnees finales
+│   │   ├── matches.csv                 # 7427 matchs consolides
+│   │   ├── teams.csv                   # 226 equipes
+│   │   └── teams_traitees.csv          # Equipes normalisees
+│   └── reference/                      # Donnees de reference
+│       ├── teams_mapping.json          # Mapping equipes (231 entrees)
+│       └── fifa_ranking_source.csv     # Classement FIFA
 │
-├── src/                             # Code source et utilitaires
-│   ├── etl_utils.py                 # Fonctions partagées (chargement, sauvegarde)
-│   └── normalize_teams.py           # Logique de standardisation des équipes
+├── src/                                # Modules Python
+│   ├── __init__.py
+│   ├── cleaning.py                     # Fonctions de nettoyage
+│   ├── teams_constants.py              # Constantes equipes/aliases
+│   ├── teams_reference.py              # Logique de normalisation
+│   └── normalize_teams.py              # Script d'orchestration
 │
-├── environment.yml                  # Environnement Conda
-├── requirements.txt                 # Dépendances pip
-└── README.md                        # Documentation du projet
+├── tests/                              # Tests unitaires
+│
+├── environment.yml                     # Environnement Conda
+├── requirements.txt                    # Dependances pip
+└── README.md
 ```
 
-## 🛠 Prérequis
+## Prerequis
 
-*   **Python 3.8+**
-*   **Jupyter Lab** ou **Notebook**
-*   **Git**
+- **Python 3.8+**
+- **PostgreSQL** (ou acces a une instance distante)
+- **Jupyter Lab**
+- **Git**
 
-## 🚀 Installation
+## Installation
 
-### 1. Cloner le dépôt
+### 1. Cloner le depot
 
 ```bash
 git clone https://github.com/Simplon-DE-P1-2025/Brief-2-ETL-donnees-footballistiques-Short-Kings.git
@@ -66,9 +81,7 @@ cd Brief-2-ETL-donnees-footballistiques-Short-Kings
 
 ### 2. Configurer l'environnement
 
-Il est fortement recommandé d'utiliser un environnement virtuel.
-
-**Option A : Via Conda (Recommandé)**
+**Option A : Via Conda (Recommande)**
 ```bash
 conda env create -f environment.yml
 conda activate football-etl
@@ -76,57 +89,72 @@ conda activate football-etl
 
 **Option B : Via venv**
 ```bash
-# Création
 python -m venv venv
-
-# Activation (Windows)
-venv\Scripts\activate
-
-# Activation (Mac/Linux)
-source venv/bin/activate
-
-# Installation des dépendances
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
 
-## ⚙️ Utilisation (Workflow ETL)
+### 3. Configurer la base de donnees
 
-Lancez Jupyter Lab pour accéder aux notebooks :
-```bash
-jupyter lab
+Creer un fichier `.env` a la racine :
+```
+utilisation de Render, voir avec l'équipe
 ```
 
-Suivez l'ordre logique de traitement des données :
+## Workflow ETL
 
-1.  **Données Historiques (1930-2010)** :
-    *   Exécutez `extract_matches19302010...` pour l'extraction brute.
-    *   Puis `nettoyage_matches19302010...` pour le nettoyage.
+Executer les notebooks dans l'ordre numerique :
 
-2.  **Données 2014** :
-    *   Utilisez le notebook `extract-2014-romain.ipynb`.
+```
+INFRASTRUCTURE
+└── 00-database-setup.ipynb → Schema PostgreSQL
 
-3.  **Données 2018** :
-    *   Extraction : `01-extract-json-2018.ipynb`
-    *   Transformation : `02-transform-2018.ipynb`
+EXTRACT
+├── 01a-validate-2014.ipynb → Validation qualite
+├── 01b-clean-1930-2014.ipynb → 7299 matchs historiques
+├── 02a-extract-json-2018.ipynb → 64 matchs 2018
+└── 03-extract-2022.ipynb → 64 matchs 2022
 
-4.  **Données 2022 & Consolidation** :
-    *   Le notebook `WorldCup2022.ipynb` traite les données les plus récentes et peut servir à l'analyse globale.
+TRANSFORM
+├── 02b-transform-2018.ipynb → Normalisation 2018
+├── 04-concat-and-index.ipynb → 7427 matchs consolides
+├── 05-create-json-mapping.ipynb → Referentiel 231 equipes
+├── 05b-map-team-ids.ipynb → Attribution IDs
+└── 06-normalize-teams.ipynb → 226 equipes finales
 
-5.  **Utilitaires** :
-    *   Le fichier `src/normalize_teams.py` est crucial pour assurer que "France" s'écrit de la même façon dans les fichiers de 1998 et de 2018.
+LOAD
+└── 07-load-database.ipynb → PostgreSQL (226 equipes, 7427 matchs)
 
-## 📊 Technologies Utilisées
+ANALYSE
+├── 08-data-quality-kpi.ipynb → Qualite et KPIs de base
+├── 09-sql-analytics.ipynb → SQL avance (partitions, vues, CTE)
+└── 10-group-knockout-correlation.ipynb → Correlation groupes/eliminatoires
+```
 
-*   **Langage** : Python
-*   **Analyse de Données** : Pandas, NumPy
-*   **Interface** : Jupyter Lab
-*   **Formats de Données** : CSV, JSON
+## Technologies
 
-## 👥 Auteurs
+| Categorie | Technologies |
+|-----------|--------------|
+| Langage | Python 3.8+ |
+| Donnees | Pandas, NumPy |
+| Base de donnees | PostgreSQL, SQLAlchemy |
+| Visualisation | Plotly, Matplotlib |
+| Statistiques | SciPy |
+| Sources | FIFA API, Kaggle |
+| Interface | Jupyter Lab |
 
-*   Équipe **Short Kings** (Simplon DE P1 2025)
+## Donnees
 
-## 📄 Licence
+- **Couverture** : 22 editions (1930-2022)
+- **Volume** : 7427 matchs, 226 equipes
+- **Sources** : FIFA, Kaggle, archives historiques
 
-Ce projet est sous licence. Voir le fichier `LICENSE` pour plus de détails.
+## Auteurs
+
+Equipe **Short Kings** (Simplon DE P1 2025)
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de details.
 
