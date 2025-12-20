@@ -1,65 +1,65 @@
-id_match,home_team_id,away_team_id,result,replay,date,edition,round,city,id_stadium,extra_time,penalties,home_result,away_result
-1,QATAR,ECUADOR,away_team,False,2022-11-20,2022,Group Stage,Al Khor,Al Bayt Stadium,False,False,0,2
-2,ENGLAND,IRAN,home_team,False,2022-11-21,2022,Group Stage,Ar-Rayyan,Khalifa International Stadium,False,False,6,2
-3,SENEGAL,NETHERLANDS,away_team,False,2022-11-21,2022,Group Stage,Doha,Al Thumama Stadium,False,False,0,2
-4,UNITED STATES,WALES,draw,False,2022-11-21,2022,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,False,False,1,1
-5,ARGENTINA,SAUDI ARABIA,away_team,False,2022-11-22,2022,Group Stage,Al Daayen,Lusail Stadium,False,False,1,2
-6,DENMARK,TUNISIA,draw,False,2022-11-22,2022,Group Stage,Doha,Education City Stadium,False,False,0,0
-7,MEXICO,POLAND,draw,False,2022-11-22,2022,Group Stage,Doha,Stadium 974,False,False,0,0
-8,FRANCE,AUSTRALIA,home_team,False,2022-11-22,2022,Group Stage,Al Wakrah,Al Janoub Stadium,False,False,4,1
-9,MOROCCO,CROATIA,draw,False,2022-11-23,2022,Group Stage,Al Khor,Al Bayt Stadium,False,False,0,0
-10,GERMANY,JAPAN,away_team,False,2022-11-23,2022,Group Stage,Ar-Rayyan,Khalifa International Stadium,False,False,1,2
-11,SPAIN,COSTA RICA,home_team,False,2022-11-23,2022,Group Stage,Doha,Al Thumama Stadium,False,False,7,0
-12,BELGIUM,CANADA,home_team,False,2022-11-23,2022,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,False,False,1,0
-13,SWITZERLAND,CAMEROON,home_team,False,2022-11-24,2022,Group Stage,Al Wakrah,Al Janoub Stadium,False,False,1,0
-14,URUGUAY,KOREA REPUBLIC,draw,False,2022-11-24,2022,Group Stage,Doha,Education City Stadium,False,False,0,0
-15,PORTUGAL,GHANA,home_team,False,2022-11-24,2022,Group Stage,Doha,Stadium 974,False,False,3,2
-16,BRAZIL,SERBIA,home_team,False,2022-11-24,2022,Group Stage,Al Daayen,Lusail Stadium,False,False,2,0
-17,WALES,IRAN,away_team,False,2022-11-25,2022,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,False,False,0,2
-18,QATAR,SENEGAL,away_team,False,2022-11-25,2022,Group Stage,Doha,Al Thumama Stadium,False,False,1,3
-19,NETHERLANDS,ECUADOR,draw,False,2022-11-25,2022,Group Stage,Ar-Rayyan,Khalifa International Stadium,False,False,1,1
-20,ENGLAND,UNITED STATES,draw,False,2022-11-25,2022,Group Stage,Al Khor,Al Bayt Stadium,False,False,0,0
-21,TUNISIA,AUSTRALIA,away_team,False,2022-11-26,2022,Group Stage,Al Wakrah,Al Janoub Stadium,False,False,0,1
-22,POLAND,SAUDI ARABIA,home_team,False,2022-11-26,2022,Group Stage,Doha,Education City Stadium,False,False,2,0
-23,FRANCE,DENMARK,home_team,False,2022-11-26,2022,Group Stage,Doha,Stadium 974,False,False,2,1
-24,ARGENTINA,MEXICO,home_team,False,2022-11-26,2022,Group Stage,Al Daayen,Lusail Stadium,False,False,2,0
-25,JAPAN,COSTA RICA,away_team,False,2022-11-27,2022,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,False,False,0,1
-26,BELGIUM,MOROCCO,away_team,False,2022-11-27,2022,Group Stage,Doha,Al Thumama Stadium,False,False,0,2
-27,CROATIA,CANADA,home_team,False,2022-11-27,2022,Group Stage,Ar-Rayyan,Khalifa International Stadium,False,False,4,1
-28,SPAIN,GERMANY,draw,False,2022-11-27,2022,Group Stage,Al Khor,Al Bayt Stadium,False,False,1,1
-29,CAMEROON,SERBIA,draw,False,2022-11-28,2022,Group Stage,Al Wakrah,Al Janoub Stadium,False,False,3,3
-30,KOREA REPUBLIC,GHANA,away_team,False,2022-11-28,2022,Group Stage,Doha,Education City Stadium,False,False,2,3
-31,BRAZIL,SWITZERLAND,home_team,False,2022-11-28,2022,Group Stage,Doha,Stadium 974,False,False,1,0
-32,PORTUGAL,URUGUAY,home_team,False,2022-11-28,2022,Group Stage,Al Daayen,Lusail Stadium,False,False,2,0
-33,NETHERLANDS,QATAR,home_team,False,2022-11-29,2022,Group Stage,Al Khor,Al Bayt Stadium,False,False,2,0
-34,ECUADOR,SENEGAL,away_team,False,2022-11-29,2022,Group Stage,Ar-Rayyan,Khalifa International Stadium,False,False,1,2
-35,WALES,ENGLAND,away_team,False,2022-11-29,2022,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,False,False,0,3
-36,IRAN,UNITED STATES,away_team,False,2022-11-29,2022,Group Stage,Doha,Al Thumama Stadium,False,False,0,1
-37,AUSTRALIA,DENMARK,home_team,False,2022-11-30,2022,Group Stage,Al Wakrah,Al Janoub Stadium,False,False,1,0
-38,TUNISIA,FRANCE,home_team,False,2022-11-30,2022,Group Stage,Doha,Education City Stadium,False,False,1,0
-39,POLAND,ARGENTINA,away_team,False,2022-11-30,2022,Group Stage,Doha,Stadium 974,False,False,0,2
-40,SAUDI ARABIA,MEXICO,away_team,False,2022-11-30,2022,Group Stage,Al Daayen,Lusail Stadium,False,False,1,2
-41,CROATIA,BELGIUM,draw,False,2022-12-01,2022,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,False,False,0,0
-42,CANADA,MOROCCO,away_team,False,2022-12-01,2022,Group Stage,Doha,Al Thumama Stadium,False,False,1,2
-43,JAPAN,SPAIN,home_team,False,2022-12-01,2022,Group Stage,Ar-Rayyan,Khalifa International Stadium,False,False,2,1
-44,COSTA RICA,GERMANY,away_team,False,2022-12-01,2022,Group Stage,Al Khor,Al Bayt Stadium,False,False,2,4
-45,GHANA,URUGUAY,away_team,False,2022-12-02,2022,Group Stage,Al Wakrah,Al Janoub Stadium,False,False,0,2
-46,KOREA REPUBLIC,PORTUGAL,home_team,False,2022-12-02,2022,Group Stage,Doha,Education City Stadium,False,False,2,1
-47,SERBIA,SWITZERLAND,away_team,False,2022-12-02,2022,Group Stage,Doha,Stadium 974,False,False,2,3
-48,CAMEROON,BRAZIL,home_team,False,2022-12-02,2022,Group Stage,Al Daayen,Lusail Stadium,False,False,1,0
-49,NETHERLANDS,UNITED STATES,home_team,False,2022-12-03,2022,Round of 16,Ar-Rayyan,Khalifa International Stadium,False,False,3,1
-50,ARGENTINA,AUSTRALIA,home_team,False,2022-12-03,2022,Round of 16,Ar-Rayyan,Ahmad Bin Ali Stadium,False,False,2,1
-51,FRANCE,POLAND,home_team,False,2022-12-04,2022,Round of 16,Doha,Al Thumama Stadium,False,False,3,1
-52,ENGLAND,SENEGAL,home_team,False,2022-12-04,2022,Round of 16,Al Khor,Al Bayt Stadium,False,False,3,0
-53,JAPAN,CROATIA,away_team,False,2022-12-05,2022,Round of 16,Al Wakrah,Al Janoub Stadium,True,True,1,1
-54,BRAZIL,KOREA REPUBLIC,home_team,False,2022-12-05,2022,Round of 16,Doha,Stadium 974,False,False,4,1
-55,MOROCCO,SPAIN,home_team,False,2022-12-06,2022,Round of 16,Doha,Education City Stadium,True,True,0,0
-56,PORTUGAL,SWITZERLAND,home_team,False,2022-12-06,2022,Round of 16,Al Daayen,Lusail Stadium,False,False,6,1
-57,CROATIA,BRAZIL,home_team,False,2022-12-09,2022,Quarter-finals,Doha,Education City Stadium,True,True,1,1
-58,NETHERLANDS,ARGENTINA,away_team,False,2022-12-09,2022,Quarter-finals,Al Daayen,Lusail Stadium,True,True,2,2
-59,MOROCCO,PORTUGAL,home_team,False,2022-12-10,2022,Quarter-finals,Doha,Al Thumama Stadium,False,False,1,0
-60,ENGLAND,FRANCE,away_team,False,2022-12-10,2022,Quarter-finals,Al Khor,Al Bayt Stadium,False,False,1,2
-61,ARGENTINA,CROATIA,home_team,False,2022-12-13,2022,Semi-final,Al Daayen,Lusail Stadium,False,False,3,0
-62,FRANCE,MOROCCO,home_team,False,2022-12-14,2022,Semi-final,Al Khor,Al Bayt Stadium,False,False,2,0
-63,CROATIA,MOROCCO,home_team,False,2022-12-17,2022,Third Place,Ar-Rayyan,Khalifa International Stadium,False,False,2,1
-64,ARGENTINA,FRANCE,home_team,False,2022-12-18,2022,Final,Al Daayen,Lusail Stadium,True,True,3,3
+id_match,home_team_id,away_team_id,home_result,away_result,result,extra_time,penalties,replay,date,round,city,id_stadium,edition
+1,Qatar,Ecuador,0,2,away_team,False,False,False,2022-11-20,Group Stage,Al Khor,Al Bayt Stadium,2022
+2,England,Iran,6,2,home_team,False,False,False,2022-11-21,Group Stage,Ar-Rayyan,Khalifa International Stadium,2022
+3,Senegal,Netherlands,0,2,away_team,False,False,False,2022-11-21,Group Stage,Doha,Al Thumama Stadium,2022
+4,United States,Wales,1,1,draw,False,False,False,2022-11-21,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,2022
+5,Argentina,Saudi Arabia,1,2,away_team,False,False,False,2022-11-22,Group Stage,Al Daayen,Lusail Stadium,2022
+6,Denmark,Tunisia,0,0,draw,False,False,False,2022-11-22,Group Stage,Doha,Education City Stadium,2022
+7,Mexico,Poland,0,0,draw,False,False,False,2022-11-22,Group Stage,Doha,Stadium 974,2022
+8,France,Australia,4,1,home_team,False,False,False,2022-11-22,Group Stage,Al Wakrah,Al Janoub Stadium,2022
+9,Morocco,Croatia,0,0,draw,False,False,False,2022-11-23,Group Stage,Al Khor,Al Bayt Stadium,2022
+10,Germany,Japan,1,2,away_team,False,False,False,2022-11-23,Group Stage,Ar-Rayyan,Khalifa International Stadium,2022
+11,Spain,Costa Rica,7,0,home_team,False,False,False,2022-11-23,Group Stage,Doha,Al Thumama Stadium,2022
+12,Belgium,Canada,1,0,home_team,False,False,False,2022-11-23,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,2022
+13,Switzerland,Cameroon,1,0,home_team,False,False,False,2022-11-24,Group Stage,Al Wakrah,Al Janoub Stadium,2022
+14,Uruguay,Korea Republic,0,0,draw,False,False,False,2022-11-24,Group Stage,Doha,Education City Stadium,2022
+15,Portugal,Ghana,3,2,home_team,False,False,False,2022-11-24,Group Stage,Doha,Stadium 974,2022
+16,Brazil,Serbia,2,0,home_team,False,False,False,2022-11-24,Group Stage,Al Daayen,Lusail Stadium,2022
+17,Wales,Iran,0,2,away_team,False,False,False,2022-11-25,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,2022
+18,Qatar,Senegal,1,3,away_team,False,False,False,2022-11-25,Group Stage,Doha,Al Thumama Stadium,2022
+19,Netherlands,Ecuador,1,1,draw,False,False,False,2022-11-25,Group Stage,Ar-Rayyan,Khalifa International Stadium,2022
+20,England,United States,0,0,draw,False,False,False,2022-11-25,Group Stage,Al Khor,Al Bayt Stadium,2022
+21,Tunisia,Australia,0,1,away_team,False,False,False,2022-11-26,Group Stage,Al Wakrah,Al Janoub Stadium,2022
+22,Poland,Saudi Arabia,2,0,home_team,False,False,False,2022-11-26,Group Stage,Doha,Education City Stadium,2022
+23,France,Denmark,2,1,home_team,False,False,False,2022-11-26,Group Stage,Doha,Stadium 974,2022
+24,Argentina,Mexico,2,0,home_team,False,False,False,2022-11-26,Group Stage,Al Daayen,Lusail Stadium,2022
+25,Japan,Costa Rica,0,1,away_team,False,False,False,2022-11-27,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,2022
+26,Belgium,Morocco,0,2,away_team,False,False,False,2022-11-27,Group Stage,Doha,Al Thumama Stadium,2022
+27,Croatia,Canada,4,1,home_team,False,False,False,2022-11-27,Group Stage,Ar-Rayyan,Khalifa International Stadium,2022
+28,Spain,Germany,1,1,draw,False,False,False,2022-11-27,Group Stage,Al Khor,Al Bayt Stadium,2022
+29,Cameroon,Serbia,3,3,draw,False,False,False,2022-11-28,Group Stage,Al Wakrah,Al Janoub Stadium,2022
+30,Korea Republic,Ghana,2,3,away_team,False,False,False,2022-11-28,Group Stage,Doha,Education City Stadium,2022
+31,Brazil,Switzerland,1,0,home_team,False,False,False,2022-11-28,Group Stage,Doha,Stadium 974,2022
+32,Portugal,Uruguay,2,0,home_team,False,False,False,2022-11-28,Group Stage,Al Daayen,Lusail Stadium,2022
+33,Netherlands,Qatar,2,0,home_team,False,False,False,2022-11-29,Group Stage,Al Khor,Al Bayt Stadium,2022
+34,Ecuador,Senegal,1,2,away_team,False,False,False,2022-11-29,Group Stage,Ar-Rayyan,Khalifa International Stadium,2022
+35,Wales,England,0,3,away_team,False,False,False,2022-11-29,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,2022
+36,Iran,United States,0,1,away_team,False,False,False,2022-11-29,Group Stage,Doha,Al Thumama Stadium,2022
+37,Australia,Denmark,1,0,home_team,False,False,False,2022-11-30,Group Stage,Al Wakrah,Al Janoub Stadium,2022
+38,Tunisia,France,1,0,home_team,False,False,False,2022-11-30,Group Stage,Doha,Education City Stadium,2022
+39,Poland,Argentina,0,2,away_team,False,False,False,2022-11-30,Group Stage,Doha,Stadium 974,2022
+40,Saudi Arabia,Mexico,1,2,away_team,False,False,False,2022-11-30,Group Stage,Al Daayen,Lusail Stadium,2022
+41,Croatia,Belgium,0,0,draw,False,False,False,2022-12-01,Group Stage,Ar-Rayyan,Ahmad Bin Ali Stadium,2022
+42,Canada,Morocco,1,2,away_team,False,False,False,2022-12-01,Group Stage,Doha,Al Thumama Stadium,2022
+43,Japan,Spain,2,1,home_team,False,False,False,2022-12-01,Group Stage,Ar-Rayyan,Khalifa International Stadium,2022
+44,Costa Rica,Germany,2,4,away_team,False,False,False,2022-12-01,Group Stage,Al Khor,Al Bayt Stadium,2022
+45,Ghana,Uruguay,0,2,away_team,False,False,False,2022-12-02,Group Stage,Al Wakrah,Al Janoub Stadium,2022
+46,Korea Republic,Portugal,2,1,home_team,False,False,False,2022-12-02,Group Stage,Doha,Education City Stadium,2022
+47,Serbia,Switzerland,2,3,away_team,False,False,False,2022-12-02,Group Stage,Doha,Stadium 974,2022
+48,Cameroon,Brazil,1,0,home_team,False,False,False,2022-12-02,Group Stage,Al Daayen,Lusail Stadium,2022
+49,Netherlands,United States,3,1,home_team,False,False,False,2022-12-03,Round of 16,Ar-Rayyan,Khalifa International Stadium,2022
+50,Argentina,Australia,2,1,home_team,False,False,False,2022-12-03,Round of 16,Ar-Rayyan,Ahmad Bin Ali Stadium,2022
+51,France,Poland,3,1,home_team,False,False,False,2022-12-04,Round of 16,Doha,Al Thumama Stadium,2022
+52,England,Senegal,3,0,home_team,False,False,False,2022-12-04,Round of 16,Al Khor,Al Bayt Stadium,2022
+53,Japan,Croatia,1,1,away_team,True,True,False,2022-12-05,Round of 16,Al Wakrah,Al Janoub Stadium,2022
+54,Brazil,Korea Republic,4,1,home_team,False,False,False,2022-12-05,Round of 16,Doha,Stadium 974,2022
+55,Morocco,Spain,0,0,home_team,True,True,False,2022-12-06,Round of 16,Doha,Education City Stadium,2022
+56,Portugal,Switzerland,6,1,home_team,False,False,False,2022-12-06,Round of 16,Al Daayen,Lusail Stadium,2022
+57,Croatia,Brazil,1,1,home_team,True,True,False,2022-12-09,Quarter-finals,Doha,Education City Stadium,2022
+58,Netherlands,Argentina,2,2,away_team,True,True,False,2022-12-09,Quarter-finals,Al Daayen,Lusail Stadium,2022
+59,Morocco,Portugal,1,0,home_team,False,False,False,2022-12-10,Quarter-finals,Doha,Al Thumama Stadium,2022
+60,England,France,1,2,away_team,False,False,False,2022-12-10,Quarter-finals,Al Khor,Al Bayt Stadium,2022
+61,Argentina,Croatia,3,0,home_team,False,False,False,2022-12-13,Semi-final,Al Daayen,Lusail Stadium,2022
+62,France,Morocco,2,0,home_team,False,False,False,2022-12-14,Semi-final,Al Khor,Al Bayt Stadium,2022
+63,Croatia,Morocco,2,1,home_team,False,False,False,2022-12-17,Third Place,Ar-Rayyan,Khalifa International Stadium,2022
+64,Argentina,France,3,3,home_team,True,True,False,2022-12-18,Final,Al Daayen,Lusail Stadium,2022

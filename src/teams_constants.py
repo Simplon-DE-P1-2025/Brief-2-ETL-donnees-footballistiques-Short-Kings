@@ -116,6 +116,7 @@ ALIASES_MAPPING = {
     "Belgium (België)": "Belgium",
     "Benin (Bénin)": "Benin",
     "Bosnia-Herzegovina (Bosna i Hercegovina)": "Bosnia and Herzegovina",
+    "Bosnia-Herzegovina": "Bosnia and Herzegovina",
     "Brazil (Brasil)": "Brazil",
     "Brunei (بروني)": "Brunei Darussalam",
     "Bulgaria (България)": "Bulgaria",
@@ -183,6 +184,7 @@ ALIASES_MAPPING = {
     "Israel (ישראל)": "Israel",
     "Italy (Italia)": "Italy",
     "Ivory Coast (Côte d'Ivoire)": "Côte d'Ivoire",
+    "Ivory Coast": "Côte d'Ivoire",  # Forme simple sans parenthèses
     "Japan (日本)": "Japan",
     "Jordan (الأردن)": "Jordan",
     "Kazakhstan (Қазақстан)": "Kazakhstan",

@@ -1116,8 +1116,7 @@
     "aliases": [
       "South Korea (한국)",
       "South Korea",
-      "Korea Republic",
-      "KOREA REPUBLIC"
+      "Korea Republic"
     ],
     "is_historical": false,
     "fifa_successor": null,
@@ -1357,9 +1356,7 @@
   },
   "USA": {
     "confederation": "CONCACAF",
-    "aliases": [
-      "United states"
-    ],
+    "aliases": [],
     "is_historical": false,
     "fifa_successor": null,
     "dissolved_year": null
@@ -1569,9 +1566,9 @@
   "Armenia": {
     "confederation": "UEFA",
     "aliases": [
-      "Armenia (Հайастан)",
+      "Armenia (Հայастан)",
       "Armenia",
-      "Armenia (Հایաստан)"
+      "Armenia (Հdelays)"
     ],
     "is_historical": false,
     "fifa_successor": null,
@@ -1713,8 +1710,7 @@
       "C�te d'Ivoire",
       "Cï¿½te d'Ivoire",
       "Ivory Coast (Côte d'Ivoire)",
-      "Ivory Coast",
-      "Cote d'Ivoire"
+      "Ivory Coast"
     ],
     "is_historical": false,
     "fifa_successor": null,
@@ -1906,8 +1902,7 @@
     "confederation": "UEFA",
     "aliases": [
       "Serbia-Montenegro (Србија и Црна Гора)",
-      "Serbia-Montenegro",
-      "Serbia and Montenegro"
+      "Serbia-Montenegro"
     ],
     "is_historical": true,
     "fifa_successor": "Serbia",
